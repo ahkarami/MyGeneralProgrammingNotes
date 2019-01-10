@@ -8,4 +8,4 @@
 
 
 ## Go Lang Tutorials:
-- ToDo
+- [Learning Go — from zero to hero](https://medium.freecodecamp.org/learning-go-from-zero-to-hero-d2a3223b3d86)
