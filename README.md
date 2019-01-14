@@ -11,5 +11,6 @@
 - [Learning Go — from zero to hero](https://medium.freecodecamp.org/learning-go-from-zero-to-hero-d2a3223b3d86)
 
 ## Python Tutorials:
+- [**Real Python Tutorials**](https://realpython.com/) [_Excellent_]
 - [The Next Level of Data Visualization in Python](https://towardsdatascience.com/the-next-level-of-data-visualization-in-python-dd6e99039d5e) [_Good_]
 - [Master Python through building real-world applications (Part 4)](https://towardsdatascience.com/master-python-through-building-real-world-applications-part-4-7a72ae77e741)
