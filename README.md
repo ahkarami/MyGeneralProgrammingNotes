@@ -14,6 +14,9 @@
 - [The Next Level of Data Visualization in Python](https://towardsdatascience.com/the-next-level-of-data-visualization-in-python-dd6e99039d5e) [_Good_]
 - [Master Python through building real-world applications (Part 4)](https://towardsdatascience.com/master-python-through-building-real-world-applications-part-4-7a72ae77e741)
 
+## Build Desktop UI Apps:
+- [Electron JS - Build cross platform desktop apps with JavaScript](https://electronjs.org/) [_Fantastic_]
+
 ## GraphQL Tutorials:
 - [A Beginner’s Guide to GraphQL](https://medium.freecodecamp.org/a-beginners-guide-to-graphql-86f849ce1bec)
 
