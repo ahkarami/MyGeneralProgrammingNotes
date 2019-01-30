@@ -16,6 +16,7 @@
 
 ## Build Desktop UI Apps:
 - [Electron JS - Build cross platform desktop apps with JavaScript](https://electronjs.org/) [_Fantastic_]
+- [PyQt Tutorial](https://www.tutorialspoint.com/pyqt/index.htm)
 
 ## GraphQL Tutorials:
 - [A Beginner’s Guide to GraphQL](https://medium.freecodecamp.org/a-beginners-guide-to-graphql-86f849ce1bec)
