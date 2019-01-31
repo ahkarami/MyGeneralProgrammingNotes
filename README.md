@@ -16,6 +16,7 @@
 
 ## Build Desktop UI Apps:
 - [Electron JS - Build cross platform desktop apps with JavaScript](https://electronjs.org/) [_Fantastic_]
+- [Electron Tutorial - TitorialsPoint](https://www.tutorialspoint.com/electron/index.htm)
 - [PyQt Tutorial](https://www.tutorialspoint.com/pyqt/index.htm)
 
 ## GraphQL Tutorials:
