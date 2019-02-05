@@ -13,13 +13,14 @@
 - [**Real Python Tutorials**](https://realpython.com/) [_Excellent_]
 - [The Next Level of Data Visualization in Python](https://towardsdatascience.com/the-next-level-of-data-visualization-in-python-dd6e99039d5e) [_Good_]
 - [Jupyter Notebook: An Introduction](https://realpython.com/jupyter-notebook-introduction/) [**Useful**]
-- [Sending Emails With Python](https://realpython.com/python-send-email/)
 - [Making Python Codes Executable](https://medium.com/dreamcatcher-its-blog/making-an-stand-alone-executable-from-a-python-script-using-pyinstaller-d1df9170e263) [_useful_]
+- [Sending Emails With Python](https://realpython.com/python-send-email/)
 - [Master Python through building real-world applications (Part 4)](https://towardsdatascience.com/master-python-through-building-real-world-applications-part-4-7a72ae77e741)
 
 ## Build Desktop UI Apps:
 - [Electron JS - Build cross platform desktop apps with JavaScript](https://electronjs.org/) [_Fantastic_]
 - [Using Python with Electron Tutorial](https://www.techiediaries.com/python-electron-tutorial/) [_Useful & Important_]
+- [An electron application for tutorials](https://github.com/crilleengvall/electron-tutorial-app) [_Very Good_]
 - [Electron Tutorial - TitorialsPoint](https://www.tutorialspoint.com/electron/index.htm)
 - [PyQt Tutorial](https://www.tutorialspoint.com/pyqt/index.htm)
 
