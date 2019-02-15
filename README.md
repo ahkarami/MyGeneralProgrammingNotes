@@ -5,6 +5,7 @@
 
 ## JavaScript Tutorials:
 - [The Modern Javascript Tutorial](https://javascript.info/)
+- [Interactive JavaScript Tutorial](https://www.learn-js.org/)
 - [An introduction to Object-Oriented Programming in JavaScript](https://medium.freecodecamp.org/an-introduction-to-object-oriented-programming-in-javascript-8900124e316a)
 
 ## Go Lang Tutorials:
