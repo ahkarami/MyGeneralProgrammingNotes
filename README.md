@@ -19,6 +19,9 @@
 - [Sending Emails With Python](https://realpython.com/python-send-email/)
 - [Master Python through building real-world applications (Part 4)](https://towardsdatascience.com/master-python-through-building-real-world-applications-part-4-7a72ae77e741)
 
+### Python Parallel Programming Tutorials:
+- [What is the Python Global Interpreter Lock (GIL)?](https://realpython.com/python-gil/)
+
 ## Build Desktop UI Apps:
 - [Electron JS - Build cross platform desktop apps with JavaScript](https://electronjs.org/) [_Fantastic_]
 - [Using Python with Electron Tutorial](https://www.techiediaries.com/python-electron-tutorial/) [_Useful & Important_]
