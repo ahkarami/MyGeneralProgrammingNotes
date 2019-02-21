@@ -20,6 +20,10 @@
 - [Sending Emails With Python](https://realpython.com/python-send-email/)
 - [Master Python through building real-world applications (Part 4)](https://towardsdatascience.com/master-python-through-building-real-world-applications-part-4-7a72ae77e741)
 
+### Build a Python SDK:
+- [API Integration in Python – Part 1](https://realpython.com/api-integration-in-python/)
+- [Building and Documenting Python REST APIs With Flask and Connexion](https://realpython.com/flask-connexion-rest-api/)
+
 ### Python Parallel Programming Tutorials:
 - [What is the Python Global Interpreter Lock (GIL)?](https://realpython.com/python-gil/)
 
