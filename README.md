@@ -27,6 +27,12 @@
 ### Python Parallel Programming Tutorials:
 - [What is the Python Global Interpreter Lock (GIL)?](https://realpython.com/python-gil/)
 - [Speed Up Your Python Program With Concurrency](https://realpython.com/python-concurrency/)
+- [Speed Up Your Algorithms Part 3 — Parallel-ization](https://towardsdatascience.com/speed-up-your-algorithms-part-3-parallelization-4d95c0888748) [_Useful_]
+
+### Python Multiprocessing Programming Tutorials:
+- [Dask](https://dask.org/) [_Good_]
+- [Multiprocessing in Python](https://www.linuxjournal.com/content/multiprocessing-python)
+
 
 ## Build Desktop UI Apps:
 - [Electron JS - Build cross platform desktop apps with JavaScript](https://electronjs.org/) [_Fantastic_]
