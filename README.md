@@ -26,6 +26,7 @@
 
 ### Python Parallel Programming Tutorials:
 - [What is the Python Global Interpreter Lock (GIL)?](https://realpython.com/python-gil/)
+- [Speed Up Your Python Program With Concurrency](https://realpython.com/python-concurrency/)
 
 ## Build Desktop UI Apps:
 - [Electron JS - Build cross platform desktop apps with JavaScript](https://electronjs.org/) [_Fantastic_]
