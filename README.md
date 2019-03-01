@@ -41,6 +41,7 @@
 - [Using Python with Electron Tutorial](https://www.techiediaries.com/python-electron-tutorial/) [_Useful & Important_]
 - [An electron application for tutorials](https://github.com/crilleengvall/electron-tutorial-app) [_Very Good_]
 - [Electron Tutorial - TitorialsPoint](https://www.tutorialspoint.com/electron/index.htm)
+- [NW.js](https://github.com/nwjs/nw.js)
 - [PyQt Tutorial](https://www.tutorialspoint.com/pyqt/index.htm)
 
 ## GraphQL Tutorials:
