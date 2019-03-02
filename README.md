@@ -42,6 +42,7 @@
 - [An electron application for tutorials](https://github.com/crilleengvall/electron-tutorial-app) [_Very Good_]
 - [Electron Tutorial - TitorialsPoint](https://www.tutorialspoint.com/electron/index.htm)
 - [NW.js](https://github.com/nwjs/nw.js)
+- [Building a Cross-platform Desktop App with NW.js](https://www.sitepoint.com/cross-platform-desktop-app-nw-js/)
 - [PyQt Tutorial](https://www.tutorialspoint.com/pyqt/index.htm)
 
 ## GraphQL Tutorials:
