@@ -17,6 +17,7 @@
 - [Jupyter Notebook: An Introduction](https://realpython.com/jupyter-notebook-introduction/) [**Useful**]
 - [Making Python Codes Executable](https://medium.com/dreamcatcher-its-blog/making-an-stand-alone-executable-from-a-python-script-using-pyinstaller-d1df9170e263) [_useful_]
 - [BYOD: Build Your Own Dataset (for free using web scraping)](https://towardsdatascience.com/byod-build-your-own-dataset-for-free-67133840dc85)
+- [Python Stream Processing](https://github.com/robinhood/faust)
 - [Sending Emails With Python](https://realpython.com/python-send-email/)
 - [Master Python through building real-world applications (Part 4)](https://towardsdatascience.com/master-python-through-building-real-world-applications-part-4-7a72ae77e741)
 
