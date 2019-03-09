@@ -19,6 +19,7 @@
 - [BYOD: Build Your Own Dataset (for free using web scraping)](https://towardsdatascience.com/byod-build-your-own-dataset-for-free-67133840dc85)
 - [Python Stream Processing](https://github.com/robinhood/faust)
 - [Sending Emails With Python](https://realpython.com/python-send-email/)
+- [How not to be afraid of Python anymore](https://medium.freecodecamp.org/how-not-to-be-afraid-of-python-anymore-b37b58871795)
 - [Master Python through building real-world applications (Part 4)](https://towardsdatascience.com/master-python-through-building-real-world-applications-part-4-7a72ae77e741)
 
 ### Build a Python SDK:
