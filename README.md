@@ -20,6 +20,7 @@
 - [Python Stream Processing](https://github.com/robinhood/faust)
 - [Sending Emails With Python](https://realpython.com/python-send-email/)
 - [How not to be afraid of Python anymore](https://medium.freecodecamp.org/how-not-to-be-afraid-of-python-anymore-b37b58871795)
+- [Python Open Source of the Month](https://medium.mybridge.co/python-open-source-of-the-month-v-sep-2018-3136ac55f230)
 - [Master Python through building real-world applications (Part 4)](https://towardsdatascience.com/master-python-through-building-real-world-applications-part-4-7a72ae77e741)
 
 ### Build a Python SDK:
