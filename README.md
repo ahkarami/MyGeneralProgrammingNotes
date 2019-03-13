@@ -7,6 +7,7 @@
 - [The Modern Javascript Tutorial](https://javascript.info/)
 - [Interactive JavaScript Tutorial](https://www.learn-js.org/)
 - [An introduction to Object-Oriented Programming in JavaScript](https://medium.freecodecamp.org/an-introduction-to-object-oriented-programming-in-javascript-8900124e316a)
+- [The “Backendification” of Frontend Development](https://hackernoon.com/the-backendification-of-frontend-development-62f218a773d4) [_Good_]
 
 ## Go Lang Tutorials:
 - [Learning Go — from zero to hero](https://medium.freecodecamp.org/learning-go-from-zero-to-hero-d2a3223b3d86)
