@@ -40,6 +40,9 @@
 - [Multithreading vs Multiprocessing in Python](https://medium.com/@nbosco/multithreading-vs-multiprocessing-in-python-c7dc88b50b5b)
 - [Python Multi-Threading - TutorialsPoint](https://www.tutorialspoint.com/python/python_multithreading.htm)
 
+## Data Science Tutorials:
+- [Programming Skills, A Complete Roadmap for Learning Data Science — Part 1](https://medium.com/vickdata/programming-skills-a-complete-roadmap-for-learning-data-science-part-1-7913b289751b)
+
 ## Build Desktop UI Apps:
 - [Electron JS - Build cross platform desktop apps with JavaScript](https://electronjs.org/) [_Fantastic_]
 - [Using Python with Electron Tutorial](https://www.techiediaries.com/python-electron-tutorial/) [_Useful & Important_]
