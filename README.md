@@ -40,6 +40,11 @@
 - [Multithreading vs Multiprocessing in Python](https://medium.com/@nbosco/multithreading-vs-multiprocessing-in-python-c7dc88b50b5b)
 - [Python Multi-Threading - TutorialsPoint](https://www.tutorialspoint.com/python/python_multithreading.htm)
 
+### Python `*args and **kwargs`:
+- [args and kwargs](http://book.pythontips.com/en/latest/args_and_kwargs.html)
+- [Python functions, args, kwargs](https://hackernoon.com/python-functions-args-kwargs-5d2d00f09c74)
+- [Primer on Python Decorators](https://realpython.com/primer-on-python-decorators/)
+
 ## Data Science Tutorials:
 - [Programming Skills, A Complete Roadmap for Learning Data Science — Part 1](https://medium.com/vickdata/programming-skills-a-complete-roadmap-for-learning-data-science-part-1-7913b289751b)
 
