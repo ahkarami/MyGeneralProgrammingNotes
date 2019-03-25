@@ -56,7 +56,8 @@
 - [Electron Tutorial - TitorialsPoint](https://www.tutorialspoint.com/electron/index.htm)
 - [NW.js](https://github.com/nwjs/nw.js)
 - [Building a Cross-platform Desktop App with NW.js](https://www.sitepoint.com/cross-platform-desktop-app-nw-js/)
-- [PyQt Tutorial](https://www.tutorialspoint.com/pyqt/index.htm)
+- [PyQt Tutorial](https://www.tutorialspoint.com/pyqt/index.htm)  
+- [Good Qt Tutorials](http://www.codebind.com/category/cpp-tutorial/qt-tutorial/)  
 
 ## GraphQL Tutorials:
 - [A Beginner’s Guide to GraphQL](https://medium.freecodecamp.org/a-beginners-guide-to-graphql-86f849ce1bec)
