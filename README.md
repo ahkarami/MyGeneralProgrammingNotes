@@ -58,7 +58,10 @@
 - [Building a Cross-platform Desktop App with NW.js](https://www.sitepoint.com/cross-platform-desktop-app-nw-js/)
 - [PyQt Tutorial](https://www.tutorialspoint.com/pyqt/index.htm)  
 - [Good Qt Tutorials](http://www.codebind.com/category/cpp-tutorial/qt-tutorial/) 
-- [Install Qt](https://askubuntu.com/questions/769424/how-do-i-install-the-declarative-module-for-qt5-in-ubuntu-16-04)  
+- [Install Qt](https://askubuntu.com/questions/769424/how-do-i-install-the-declarative-module-for-qt5-in-ubuntu-16-04) 
+- [How to Build a Python GUI Application With wxPython](https://realpython.com/python-gui-with-wxpython/)  
+- [wxWidgets - GitHub](https://github.com/wxWidgets/wxWidgets)  
+
 
 ## GraphQL Tutorials:
 - [A Beginner’s Guide to GraphQL](https://medium.freecodecamp.org/a-beginners-guide-to-graphql-86f849ce1bec)
