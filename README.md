@@ -48,8 +48,9 @@
 - [Primer on Python Decorators](https://realpython.com/primer-on-python-decorators/)
 
 ## Data Science Tutorials:
-- [10 Python Pandas tricks that make your work more efficient](https://towardsdatascience.com/10-python-pandas-tricks-that-make-your-work-more-efficient-2e8e483808ba)
-- [Programming Skills, A Complete Roadmap for Learning Data Science — Part 1](https://medium.com/vickdata/programming-skills-a-complete-roadmap-for-learning-data-science-part-1-7913b289751b)
+- [10 Python Pandas tricks that make your work more efficient](https://towardsdatascience.com/10-python-pandas-tricks-that-make-your-work-more-efficient-2e8e483808ba)  
+- [Reviewing Python Visualization Packages](https://towardsdatascience.com/reviewing-python-visualization-packages-fa7fe12e622b) [_Good_]  
+- [Programming Skills, A Complete Roadmap for Learning Data Science — Part 1](https://medium.com/vickdata/programming-skills-a-complete-roadmap-for-learning-data-science-part-1-7913b289751b)  
 
 ## Build Desktop UI Apps:
 - [Electron JS - Build cross platform desktop apps with JavaScript](https://electronjs.org/) [_Fantastic_]
