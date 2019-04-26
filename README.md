@@ -30,6 +30,9 @@
 - [API Integration in Python – Part 1](https://realpython.com/api-integration-in-python/)
 - [Building and Documenting Python REST APIs With Flask and Connexion](https://realpython.com/flask-connexion-rest-api/)
 
+### Web Scraping with Python:
+- [An Introduction to Web Scraping with Puppeteer](https://medium.com/swlh/an-introduction-to-web-scraping-with-puppeteer-3d35a51fdca0)  
+
 ### Python Parallel Programming Tutorials:
 - [What is the Python Global Interpreter Lock (GIL)?](https://realpython.com/python-gil/)
 - [Speed Up Your Python Program With Concurrency](https://realpython.com/python-concurrency/)
