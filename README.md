@@ -1,7 +1,8 @@
 # Some Notes About General Programming:
 
 ## General Notes:
-- [Want excellent free coding tutorials? Subscribe to these YouTube channels](https://medium.freecodecamp.org/want-amazing-free-coding-tutorials-subscribe-to-these-youtube-channels-b91f154db543)
+- [Want excellent free coding tutorials? Subscribe to these YouTube channels](https://medium.freecodecamp.org/want-amazing-free-coding-tutorials-subscribe-to-these-youtube-channels-b91f154db543)  
+- [Could Python’s Popularity Outperform JavaScript in the Next Five Years?](https://hackernoon.com/could-pythons-popularity-outperform-javascript-in-the-next-five-years-abed4e307224)  
 
 ## JavaScript Tutorials:
 - [The Modern Javascript Tutorial](https://javascript.info/)
