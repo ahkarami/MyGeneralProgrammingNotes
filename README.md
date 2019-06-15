@@ -47,6 +47,7 @@
 - [Multiprocessing in Python](https://www.linuxjournal.com/content/multiprocessing-python)
 - [Multithreading vs Multiprocessing in Python](https://medium.com/@nbosco/multithreading-vs-multiprocessing-in-python-c7dc88b50b5b)
 - [Python Multi-Threading - TutorialsPoint](https://www.tutorialspoint.com/python/python_multithreading.htm)
+- [Faster video file FPS with cv2.VideoCapture and OpenCV](https://www.pyimagesearch.com/2017/02/06/faster-video-file-fps-with-cv2-videocapture-and-opencv/) [_Live Video Manipulating - Open-CV Python_]  
 
 ### Python `*args and **kwargs`:
 - [args and kwargs](http://book.pythontips.com/en/latest/args_and_kwargs.html)
