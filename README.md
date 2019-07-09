@@ -35,6 +35,7 @@
 
 ### Web Scraping with Python:
 - [An Introduction to Web Scraping with Puppeteer](https://medium.com/swlh/an-introduction-to-web-scraping-with-puppeteer-3d35a51fdca0)  
+- [Google Images Download](https://github.com/hardikvasa/google-images-download?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)  
 
 ### Python Parallel Programming Tutorials:
 - [What is the Python Global Interpreter Lock (GIL)?](https://realpython.com/python-gil/)
