@@ -9,6 +9,7 @@
 - [Interactive JavaScript Tutorial](https://www.learn-js.org/)
 - [An introduction to Object-Oriented Programming in JavaScript](https://medium.freecodecamp.org/an-introduction-to-object-oriented-programming-in-javascript-8900124e316a)
 - [The “Backendification” of Frontend Development](https://hackernoon.com/the-backendification-of-frontend-development-62f218a773d4) [_Good_]  
+- [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS)  
 - [Let’s build a FullStack App with JavaScript! ~ Episode 1](https://medium.com/matts-lambda-minutes/lets-build-a-fullstack-app-with-javascript-episode-1-f63a4fa4700e)    
 
 
