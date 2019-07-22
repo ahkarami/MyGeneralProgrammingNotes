@@ -31,6 +31,7 @@
 - [How not to be afraid of Python anymore](https://medium.freecodecamp.org/how-not-to-be-afraid-of-python-anymore-b37b58871795)
 - [Python Open Source of the Month](https://medium.mybridge.co/python-open-source-of-the-month-v-sep-2018-3136ac55f230)
 - [Master Python through building real-world applications (Part 4)](https://towardsdatascience.com/master-python-through-building-real-world-applications-part-4-7a72ae77e741)
+- [36 Amazing Python Open Source Projects (v.2019)](https://medium.mybridge.co/36-amazing-python-open-source-projects-v-2019-2fe058d79450)  
 
 ### Build a Python SDK:
 - [API Integration in Python – Part 1](https://realpython.com/api-integration-in-python/)
