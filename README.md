@@ -94,3 +94,7 @@
 
 ## Docker Tutorials:
 - [Learn Enough Docker to be Useful](https://towardsdatascience.com/learn-enough-docker-to-be-useful-b7ba70caeb4b)
+
+## Google Colab Tutorials:
+- [Downloading Datasets into Google Drive via Google Colab](https://towardsdatascience.com/downloading-datasets-into-google-drive-via-google-colab-bcb1b30b0166)  
+
