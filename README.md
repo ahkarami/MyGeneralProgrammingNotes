@@ -30,6 +30,7 @@
 - [Sending Emails With Python](https://realpython.com/python-send-email/)
 - [How not to be afraid of Python anymore](https://medium.freecodecamp.org/how-not-to-be-afraid-of-python-anymore-b37b58871795)
 - [Python Open Source of the Month](https://medium.mybridge.co/python-open-source-of-the-month-v-sep-2018-3136ac55f230)
+- [Mail Processing with Deep Learning: A Case Study](https://medium.com/@ODSC/mail-processing-with-deep-learning-a-case-study-dfe6b1e1afaa) 
 - [Master Python through building real-world applications (Part 4)](https://towardsdatascience.com/master-python-through-building-real-world-applications-part-4-7a72ae77e741)
 - [Use Cython to get more than 30X speedup on your Python code](https://towardsdatascience.com/use-cython-to-get-more-than-30x-speedup-on-your-python-code-f6cb337919b6)  
 - [36 Amazing Python Open Source Projects (v.2019)](https://medium.mybridge.co/36-amazing-python-open-source-projects-v-2019-2fe058d79450)  
