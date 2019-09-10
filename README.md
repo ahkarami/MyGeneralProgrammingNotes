@@ -1,6 +1,7 @@
 # Some Notes About General Programming:
 
 ## General Notes:
+- [Free Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#graphical-user-interfaces)  
 - [Want excellent free coding tutorials? Subscribe to these YouTube channels](https://medium.freecodecamp.org/want-amazing-free-coding-tutorials-subscribe-to-these-youtube-channels-b91f154db543)  
 - [Could Python’s Popularity Outperform JavaScript in the Next Five Years?](https://hackernoon.com/could-pythons-popularity-outperform-javascript-in-the-next-five-years-abed4e307224)  
 - [How I went from newbie to Software Engineer in 9 months while working full time](https://medium.com/free-code-camp/how-i-went-from-newbie-to-software-engineer-in-9-months-while-working-full-time-460bd8485847)  
