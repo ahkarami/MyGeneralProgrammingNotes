@@ -28,6 +28,7 @@
 - [Making Python Codes Executable](https://medium.com/dreamcatcher-its-blog/making-an-stand-alone-executable-from-a-python-script-using-pyinstaller-d1df9170e263) [_useful_]
 - [BYOD: Build Your Own Dataset (for free using web scraping)](https://towardsdatascience.com/byod-build-your-own-dataset-for-free-67133840dc85)
 - [Work with CSV, JSON, and XML in Python](https://towardsdatascience.com/the-easy-way-to-work-with-csv-json-and-xml-in-python-5056f9325ca9)  
+- [Python tricks 101: what every new programmer should know](https://towardsdatascience.com/python-tricks-101-what-every-new-programmer-should-know-c512a9787022)  
 - [Python Stream Processing](https://github.com/robinhood/faust)
 - [Sending Emails With Python](https://realpython.com/python-send-email/)
 - [How not to be afraid of Python anymore](https://medium.freecodecamp.org/how-not-to-be-afraid-of-python-anymore-b37b58871795)
