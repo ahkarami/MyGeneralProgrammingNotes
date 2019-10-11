@@ -72,6 +72,8 @@
 - [Reviewing Python Visualization Packages](https://towardsdatascience.com/reviewing-python-visualization-packages-fa7fe12e622b) [_Good_]  
 - [Programming Skills, A Complete Roadmap for Learning Data Science — Part 1](https://medium.com/vickdata/programming-skills-a-complete-roadmap-for-learning-data-science-part-1-7913b289751b)  
 - [A practical approach to machine learning](https://github.com/practicalAI/practicalAI)  
+- [Fraud Detection - Kaggle Competition Notes (Part 1)](https://www.kaggle.com/c/ieee-fraud-detection/discussion/111284)  
+- [Fraud Detection - Kaggle Competition Notes (Part 2)](https://www.kaggle.com/c/ieee-fraud-detection/discussion/111308)  
 
 ## Build Desktop UI Apps:
 - [Electron JS - Build cross platform desktop apps with JavaScript](https://electronjs.org/) [_Fantastic_]
