@@ -25,6 +25,7 @@
 - [The Next Level of Data Visualization in Python](https://towardsdatascience.com/the-next-level-of-data-visualization-in-python-dd6e99039d5e) [_Good_]
 - [Jupyter Notebook: An Introduction](https://realpython.com/jupyter-notebook-introduction/) [**Useful**]
 - [Basics of Jupyter Notebook](https://hub.packtpub.com/basics-jupyter-notebook-python/)
+- [Polynote - Make Data Science Notebooks Better](https://towardsdatascience.com/netflix-open-sources-polynote-to-make-data-science-notebooks-better-8d6820535b25)  
 - [Making Python Codes Executable](https://medium.com/dreamcatcher-its-blog/making-an-stand-alone-executable-from-a-python-script-using-pyinstaller-d1df9170e263) [_useful_]
 - [BYOD: Build Your Own Dataset (for free using web scraping)](https://towardsdatascience.com/byod-build-your-own-dataset-for-free-67133840dc85)
 - [Work with CSV, JSON, and XML in Python](https://towardsdatascience.com/the-easy-way-to-work-with-csv-json-and-xml-in-python-5056f9325ca9)  
