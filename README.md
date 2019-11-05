@@ -39,6 +39,7 @@
 - [Use Cython to get more than 30X speedup on your Python code](https://towardsdatascience.com/use-cython-to-get-more-than-30x-speedup-on-your-python-code-f6cb337919b6)  
 - [36 Amazing Python Open Source Projects (v.2019)](https://medium.mybridge.co/36-amazing-python-open-source-projects-v-2019-2fe058d79450)  
 - [The Most Undervalued Standard Python Library](https://towardsdatascience.com/the-most-undervalued-standard-python-library-14021632f692)  
+- [How to write Web apps using simple Python for Data Scientists?](https://towardsdatascience.com/how-to-write-web-apps-using-simple-python-for-data-scientists-a227a1a01582)  
 
 ### Build a Python SDK:
 - [API Integration in Python – Part 1](https://realpython.com/api-integration-in-python/)
