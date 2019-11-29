@@ -78,6 +78,7 @@
 - [A practical approach to machine learning](https://github.com/practicalAI/practicalAI)  
 - [Fraud Detection - Kaggle Competition Notes (Part 1)](https://www.kaggle.com/c/ieee-fraud-detection/discussion/111284)  
 - [Fraud Detection - Kaggle Competition Notes (Part 2)](https://www.kaggle.com/c/ieee-fraud-detection/discussion/111308)  
+- [Pandas Tutorial](https://www.dataquest.io/blog/pandas-python-tutorial/)  
 
 ## Build Desktop UI Apps:
 - [Electron JS - Build cross platform desktop apps with JavaScript](https://electronjs.org/) [_Fantastic_]
