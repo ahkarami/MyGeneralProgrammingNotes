@@ -78,6 +78,7 @@
 - [A practical approach to machine learning](https://github.com/practicalAI/practicalAI)  
 - [Fraud Detection - Kaggle Competition Notes (Part 1)](https://www.kaggle.com/c/ieee-fraud-detection/discussion/111284)  
 - [Fraud Detection - Kaggle Competition Notes (Part 2)](https://www.kaggle.com/c/ieee-fraud-detection/discussion/111308)  
+- [Matplotlib Tutorial: Python Plotting](https://www.datacamp.com/community/tutorials/matplotlib-tutorial-python#gs.iSn8lmI)  
 - [Pandas Tutorial](https://www.dataquest.io/blog/pandas-python-tutorial/)  
 - [Pandas Cheat Sheet](https://s3.amazonaws.com/dq-blog-files/pandas-cheat-sheet.pdf)  
 
