@@ -32,6 +32,7 @@
 - [Python tricks 101: what every new programmer should know](https://towardsdatascience.com/python-tricks-101-what-every-new-programmer-should-know-c512a9787022)  
 - [Python Stream Processing](https://github.com/robinhood/faust)
 - [Sending Emails With Python](https://realpython.com/python-send-email/)
+- [How to Send an Email Using smtplib](http://www.blog.pythonlibrary.org/2013/06/26/python-102-how-to-send-an-email-using-smtplib-email/)  
 - [How not to be afraid of Python anymore](https://medium.freecodecamp.org/how-not-to-be-afraid-of-python-anymore-b37b58871795)
 - [Python Open Source of the Month](https://medium.mybridge.co/python-open-source-of-the-month-v-sep-2018-3136ac55f230)
 - [Mail Processing with Deep Learning: A Case Study](https://medium.com/@ODSC/mail-processing-with-deep-learning-a-case-study-dfe6b1e1afaa) 
