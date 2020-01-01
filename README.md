@@ -103,6 +103,9 @@
 ## GraphQL Tutorials:
 - [A Beginner’s Guide to GraphQL](https://medium.freecodecamp.org/a-beginners-guide-to-graphql-86f849ce1bec)
 
+## Android Programming:
+- [Learning Android Development In 2019](https://medium.com/mindorks/learning-android-development-in-2019-a-practical-guide-ddc71e008696)  
+
 ## Linux Shell Tutorials: 
 - [How not to be afraid of Vim anymore](https://medium.freecodecamp.org/how-not-to-be-afraid-of-vim-anymore-ec0b7264b0ae)
 
