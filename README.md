@@ -105,6 +105,7 @@
 
 ## Android Programming:
 - [Learning Android Development In 2019](https://medium.com/mindorks/learning-android-development-in-2019-a-practical-guide-ddc71e008696)  
+- [Android Developer Roadmap](https://github.com/MindorksOpenSource/android-developer-roadmap)  
 
 ## Linux Shell Tutorials: 
 - [How not to be afraid of Vim anymore](https://medium.freecodecamp.org/how-not-to-be-afraid-of-vim-anymore-ec0b7264b0ae)
