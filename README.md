@@ -49,6 +49,7 @@
 - [Building and Documenting Python REST APIs With Flask and Connexion](https://realpython.com/flask-connexion-rest-api/)
 
 ### Web Scraping with Python:
+- [Beautiful Soup: Build a Web Scraper With Python](https://realpython.com/beautiful-soup-web-scraper-python/)  
 - [An Introduction to Web Scraping with Puppeteer](https://medium.com/swlh/an-introduction-to-web-scraping-with-puppeteer-3d35a51fdca0)  
 - [Google Images Download](https://github.com/hardikvasa/google-images-download?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)  
 - [AutoCrawler](https://github.com/YoongiKim/AutoCrawler?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)  
