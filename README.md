@@ -93,6 +93,7 @@
 - [Electron Tutorial - TitorialsPoint](https://www.tutorialspoint.com/electron/index.htm)
 - [NW.js](https://github.com/nwjs/nw.js)
 - [Building a Cross-platform Desktop App with NW.js](https://www.sitepoint.com/cross-platform-desktop-app-nw-js/)
+- [Python and PyQt: Building a GUI Desktop Calculator](https://realpython.com/python-pyqt-gui-calculator/)  
 - [PyQt Tutorial](https://www.tutorialspoint.com/pyqt/index.htm)  
 - [Good Qt Tutorials](http://www.codebind.com/category/cpp-tutorial/qt-tutorial/) 
 - [Install Qt](https://askubuntu.com/questions/769424/how-do-i-install-the-declarative-module-for-qt5-in-ubuntu-16-04) 
