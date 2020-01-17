@@ -56,6 +56,7 @@
 - [AutoCrawler](https://github.com/YoongiKim/AutoCrawler?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)  
 - [Web Scraping with Python and BeautifulSoup](https://blog.floydhub.com/web-scraping-with-python/)  
 - [How I automated my job search by building a web crawler from scratch](https://www.freecodecamp.org/news/how-i-built-a-web-crawler-to-automate-my-job-search-f825fb5af718/) [_Interesting_]  
+- [Building an Image Downloader With Multiprocessing in Python](https://medium.com/better-programming/building-an-imagedownloader-with-multiprocessing-in-python-44aee36e0424)  
 
 ### Python Parallel Programming Tutorials:
 - [What is the Python Global Interpreter Lock (GIL)?](https://realpython.com/python-gil/)
