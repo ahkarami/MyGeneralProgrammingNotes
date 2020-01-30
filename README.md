@@ -44,6 +44,7 @@
 - [How to write Web apps using simple Python for Data Scientists?](https://towardsdatascience.com/how-to-write-web-apps-using-simple-python-for-data-scientists-a227a1a01582)  
 - [Building Machine Learning Apps with Streamlit](https://towardsdatascience.com/building-machine-learning-apps-with-streamlit-667cef3ff509)  
 - [30 Python Best Practices, Tips, And Tricks](https://towardsdatascience.com/30-python-best-practices-tips-and-tricks-caefb9f8c5f5)  [_Interesting_]
+- [PyFormat](https://pyformat.info/)  [_Python print formatting_]  
 
 ### Build a Python SDK:
 - [API Integration in Python – Part 1](https://realpython.com/api-integration-in-python/)
