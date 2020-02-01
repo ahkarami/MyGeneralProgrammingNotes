@@ -7,6 +7,7 @@
 - [How I went from newbie to Software Engineer in 9 months while working full time](https://medium.com/free-code-camp/how-i-went-from-newbie-to-software-engineer-in-9-months-while-working-full-time-460bd8485847) 
 - [DeepSource](https://deepsource.io/) [_Something like GitHub_] 
 - [General Algorithmic Programming](https://www.codechef.com/)  
+- [GitBook](https://www.gitbook.com/)  [_Excellent Tool for doc Sharing_]  
 
 ## JavaScript Tutorials:
 - [The Modern Javascript Tutorial](https://javascript.info/)
