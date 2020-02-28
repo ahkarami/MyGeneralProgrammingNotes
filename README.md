@@ -121,6 +121,13 @@
 ## Linux Shell Tutorials: 
 - [How not to be afraid of Vim anymore](https://medium.freecodecamp.org/how-not-to-be-afraid-of-vim-anymore-ec0b7264b0ae)
 
+### tmux Tutorials:
+- [Getting started with Tmux](https://linuxize.com/post/getting-started-with-tmux/)  
+- [Tactical tmux](https://danielmiessler.com/study/tmux/)  
+- [A Gentle Introduction to tmux](https://medium.com/hackernoon/a-gentle-introduction-to-tmux-8d784c404340)  
+- [Tmux Cheat Sheet](https://tmuxcheatsheet.com/)  
+- [tmux - a very simple beginner's guide](https://www.ocf.berkeley.edu/~ckuehl/tmux/)  
+
 ## Notes about IDEs:
 - [super secret VS Code hacks](https://medium.freecodecamp.org/here-are-some-super-secret-vs-code-hacks-to-boost-your-productivity-20d30197ac76)
 
