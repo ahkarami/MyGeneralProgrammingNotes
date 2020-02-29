@@ -52,6 +52,7 @@
 ### Build a Python SDK:
 - [API Integration in Python – Part 1](https://realpython.com/api-integration-in-python/)
 - [Building and Documenting Python REST APIs With Flask and Connexion](https://realpython.com/flask-connexion-rest-api/)
+- [How to Publish an Open-Source Python Package to PyPI](https://realpython.com/pypi-publish-python-package/)  
 
 ### Web Scraping with Python:
 - [Beautiful Soup: Build a Web Scraper With Python](https://realpython.com/beautiful-soup-web-scraper-python/)  
