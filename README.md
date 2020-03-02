@@ -93,6 +93,7 @@
 - [Pandas Tutorial](https://www.dataquest.io/blog/pandas-python-tutorial/)  
 - [Pandas Cheat Sheet](https://s3.amazonaws.com/dq-blog-files/pandas-cheat-sheet.pdf)  
 - [Top Python Libraries Used In Data Science](https://towardsdatascience.com/top-python-libraries-used-in-data-science-a58e90f1b4ba)  
+- [Data Engineer Interview Questions](https://realpython.com/data-engineer-interview-questions-python/)  
 
 ## Build Desktop UI Apps:
 - [Electron JS - Build cross platform desktop apps with JavaScript](https://electronjs.org/) [_Fantastic_]
