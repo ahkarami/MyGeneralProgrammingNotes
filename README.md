@@ -49,6 +49,9 @@
 - [Python String Formatting Best Practices](https://realpython.com/python-string-formatting/)  
 - [PyFormat](https://pyformat.info/)  [_Python print formatting_]  
 
+### Visualization in Python:
+- [Python Plotting With Matplotlib](https://realpython.com/python-matplotlib-guide/)  
+
 ### Build a Python SDK:
 - [API Integration in Python – Part 1](https://realpython.com/api-integration-in-python/)
 - [Building and Documenting Python REST APIs With Flask and Connexion](https://realpython.com/flask-connexion-rest-api/)
