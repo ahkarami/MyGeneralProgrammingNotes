@@ -51,6 +51,7 @@
 
 ### Visualization in Python:
 - [Python Plotting With Matplotlib](https://realpython.com/python-matplotlib-guide/)  
+- [Interactive plotting with Bokeh](https://towardsdatascience.com/interactive-plotting-with-bokeh-ea40ab10870)  
 
 ### Build a Python SDK:
 - [API Integration in Python – Part 1](https://realpython.com/api-integration-in-python/)
