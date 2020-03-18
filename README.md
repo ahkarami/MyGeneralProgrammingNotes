@@ -77,6 +77,7 @@
 
 ### Python Multiprocessing Programming Tutorials:
 - [Dask](https://dask.org/) [_Good_]
+- [Numba](http://numba.pydata.org/) [_Good_]
 - [Multiprocessing in Python](https://www.linuxjournal.com/content/multiprocessing-python)
 - [Multithreading vs Multiprocessing in Python](https://medium.com/@nbosco/multithreading-vs-multiprocessing-in-python-c7dc88b50b5b)
 - [Python Multi-Threading - TutorialsPoint](https://www.tutorialspoint.com/python/python_multithreading.htm)
