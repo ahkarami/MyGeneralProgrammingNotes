@@ -70,14 +70,14 @@
 - [Building an Image Downloader With Multiprocessing in Python](https://medium.com/better-programming/building-an-imagedownloader-with-multiprocessing-in-python-44aee36e0424)  
 
 ### Python Parallel Programming Tutorials:
+- [Dask](https://dask.org/) [_Good_]
+- [Numba](http://numba.pydata.org/) [_Good_]
 - [What is the Python Global Interpreter Lock (GIL)?](https://realpython.com/python-gil/)
 - [Speed Up Your Python Program With Concurrency](https://realpython.com/python-concurrency/)
 - [Speed Up Your Algorithms Part 3 — Parallel-ization](https://towardsdatascience.com/speed-up-your-algorithms-part-3-parallelization-4d95c0888748) [_Useful_]
 - [Intro to Threads and Processes in Python](https://medium.com/@bfortuner/python-multithreading-vs-multiprocessing-73072ce5600b)
 
 ### Python Multiprocessing Programming Tutorials:
-- [Dask](https://dask.org/) [_Good_]
-- [Numba](http://numba.pydata.org/) [_Good_]
 - [Multiprocessing in Python](https://www.linuxjournal.com/content/multiprocessing-python)
 - [Multithreading vs Multiprocessing in Python](https://medium.com/@nbosco/multithreading-vs-multiprocessing-in-python-c7dc88b50b5b)
 - [Python Multi-Threading - TutorialsPoint](https://www.tutorialspoint.com/python/python_multithreading.htm)
@@ -90,6 +90,7 @@
 - [Python args and kwargs: Demystified](https://realpython.com/python-kwargs-and-args/)  
 
 ## Data Science Tutorials:
+- [List of Data Science Cheat Sheets](https://github.com/FavioVazquez/ds-cheatsheets) [_Excellent_]  
 - [10 Python Pandas tricks that make your work more efficient](https://towardsdatascience.com/10-python-pandas-tricks-that-make-your-work-more-efficient-2e8e483808ba)  
 - [Reviewing Python Visualization Packages](https://towardsdatascience.com/reviewing-python-visualization-packages-fa7fe12e622b) [_Good_]  
 - [Programming Skills, A Complete Roadmap for Learning Data Science — Part 1](https://medium.com/vickdata/programming-skills-a-complete-roadmap-for-learning-data-science-part-1-7913b289751b)  
