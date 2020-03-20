@@ -89,6 +89,11 @@
 - [Primer on Python Decorators](https://realpython.com/primer-on-python-decorators/)  
 - [Python args and kwargs: Demystified](https://realpython.com/python-kwargs-and-args/)  
 
+### Python Modules, Packages, Absolute vs Relative Imports, and `__init__.py` file:
+- [Absolute vs Relative Imports in Python](https://realpython.com/absolute-vs-relative-python-imports/)  
+- [Python Modules and Packages – An Introduction](https://realpython.com/python-modules-packages/)  
+- [What’s __init__ for me?](https://towardsdatascience.com/whats-init-for-me-d70a312da583)  
+
 ## Data Science Tutorials:
 - [List of Data Science Cheat Sheets](https://github.com/FavioVazquez/ds-cheatsheets) [_Excellent_]  
 - [10 Python Pandas tricks that make your work more efficient](https://towardsdatascience.com/10-python-pandas-tricks-that-make-your-work-more-efficient-2e8e483808ba)  
@@ -131,7 +136,16 @@
 - [Build a Mobile Application With the Kivy Python Framework](https://realpython.com/mobile-app-kivy-python/)  [_Great_]  
 
 ## Linux Shell Tutorials: 
+- [Powerline - a statusline plugin](https://github.com/powerline/powerline)  [_Beautiful Shell & Vim_]
+
+### Vim Tutorials:
 - [How not to be afraid of Vim anymore](https://medium.freecodecamp.org/how-not-to-be-afraid-of-vim-anymore-ec0b7264b0ae)
+- [VIM and Python – A Match Made in Heaven](https://realpython.com/vim-and-python-a-match-made-in-heaven/)  [_Great_]
+
+### Sublime Text Tutorials:
+- [Setting Up Sublime Text 3 for Full Stack Python Development](https://realpython.com/setting-up-sublime-text-3-for-full-stack-python-development/)  
+- [Set Up Sublime Text 3 to use Python 3](https://medium.com/@hariyanto.tan95/set-up-sublime-text-3-to-use-python-3-c845b742c720)  
+- [Sublime Text via SSH](https://martin-thoma.com/how-to-use-sublime-text-via-ssh/)  
 
 ### tmux Tutorials:
 - [Getting started with Tmux](https://linuxize.com/post/getting-started-with-tmux/)  
