@@ -71,8 +71,9 @@
 - [Building an Image Downloader With Multiprocessing in Python](https://medium.com/better-programming/building-an-imagedownloader-with-multiprocessing-in-python-44aee36e0424)  
 
 ### Python Parallel Programming Tutorials:
-- [Dask](https://dask.org/) [_Good_]
 - [Numba](http://numba.pydata.org/) [_Good_]
+- [Dask](https://dask.org/) [_Good_]
+- [Modin: Speed up Pandas](https://github.com/modin-project/modin) [_Excellent_]
 - [What is the Python Global Interpreter Lock (GIL)?](https://realpython.com/python-gil/)
 - [Speed Up Your Python Program With Concurrency](https://realpython.com/python-concurrency/)
 - [Speed Up Your Algorithms Part 3 — Parallel-ization](https://towardsdatascience.com/speed-up-your-algorithms-part-3-parallelization-4d95c0888748) [_Useful_]
