@@ -45,6 +45,7 @@
 - [The Most Undervalued Standard Python Library](https://towardsdatascience.com/the-most-undervalued-standard-python-library-14021632f692)  
 - [How to write Web apps using simple Python for Data Scientists?](https://towardsdatascience.com/how-to-write-web-apps-using-simple-python-for-data-scientists-a227a1a01582)  
 - [Building Machine Learning Apps with Streamlit](https://towardsdatascience.com/building-machine-learning-apps-with-streamlit-667cef3ff509)  
+- [Python Exceptions](https://realpython.com/python-exceptions/)  
 - [30 Python Best Practices, Tips, And Tricks](https://towardsdatascience.com/30-python-best-practices-tips-and-tricks-caefb9f8c5f5)  [_Interesting_]
 - [Python Development in Visual Studio Code](https://realpython.com/python-development-visual-studio-code/)  
 - [Python String Formatting Best Practices](https://realpython.com/python-string-formatting/)  
