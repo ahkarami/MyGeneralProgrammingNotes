@@ -145,6 +145,10 @@
 - [How not to be afraid of Vim anymore](https://medium.freecodecamp.org/how-not-to-be-afraid-of-vim-anymore-ec0b7264b0ae)
 - [VIM and Python – A Match Made in Heaven](https://realpython.com/vim-and-python-a-match-made-in-heaven/)  [_Great_]
 
+### Nano Tutorials:
+- [How to Use Nano, the Linux Command Line Text Editor](https://linuxize.com/post/how-to-use-nano-text-editor/)  
+- [How to Install and Use Nano Text Editor Commands in Linux](https://phoenixnap.com/kb/use-nano-text-editor-commands-linux)  
+  
 ### Sublime Text Tutorials:
 - [Setting Up Sublime Text 3 for Full Stack Python Development](https://realpython.com/setting-up-sublime-text-3-for-full-stack-python-development/)  
 - [Set Up Sublime Text 3 to use Python 3](https://medium.com/@hariyanto.tan95/set-up-sublime-text-3-to-use-python-3-c845b742c720)  
