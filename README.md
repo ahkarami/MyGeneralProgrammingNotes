@@ -52,7 +52,8 @@
 - [Python Development in Visual Studio Code](https://realpython.com/python-development-visual-studio-code/)  
 - [Python String Formatting Best Practices](https://realpython.com/python-string-formatting/)  
 - [PyFormat](https://pyformat.info/)  [_Python print formatting_]  
-- [Python Arabic Reshaper](https://github.com/mpcabd/python-arabic-reshaper)  [_Arabic Typing in Python_]
+- [Python Arabic Reshaper](https://github.com/mpcabd/python-arabic-reshaper)  [_Arabic Typing in Python_]  
+- [PyGame: A Primer on Game Programming in Python](https://realpython.com/pygame-a-primer/) [_Interesting_]  
 
 ### Visualization in Python:
 - [Python Plotting With Matplotlib](https://realpython.com/python-matplotlib-guide/)  
