@@ -114,6 +114,7 @@
 - [Matplotlib Tutorial: Python Plotting](https://www.datacamp.com/community/tutorials/matplotlib-tutorial-python#gs.iSn8lmI)  
 - [Pandas Tutorial](https://www.dataquest.io/blog/pandas-python-tutorial/)  
 - [Pandas Cheat Sheet](https://s3.amazonaws.com/dq-blog-files/pandas-cheat-sheet.pdf)  
+- [Faster Pandas with parallel processing: cuDF vs. Modin](https://towardsdatascience.com/faster-pandas-with-parallel-processing-cudf-vs-modin-f2318c594084) [_Great_]  
 - [Top Python Libraries Used In Data Science](https://towardsdatascience.com/top-python-libraries-used-in-data-science-a58e90f1b4ba)  
 - [Data Engineer Interview Questions](https://realpython.com/data-engineer-interview-questions-python/)  
 - [How did I learn Data Science?](https://towardsdatascience.com/how-did-i-learn-data-science-d5f7fc477997)  
