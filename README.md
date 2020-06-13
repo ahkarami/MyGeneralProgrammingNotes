@@ -54,6 +54,7 @@
 - [Python Development in Visual Studio Code](https://realpython.com/python-development-visual-studio-code/)  
 - [Python String Formatting Best Practices](https://realpython.com/python-string-formatting/)  
 - [PyFormat](https://pyformat.info/)  [_Python print formatting_]  
+- [Regular Expressions: Regexes in Python (Part 1)](https://realpython.com/regex-python/)  
 - [Python Arabic Reshaper](https://github.com/mpcabd/python-arabic-reshaper)  [_Arabic Typing in Python_]  
 - [PyGame: A Primer on Game Programming in Python](https://realpython.com/pygame-a-primer/) [_Interesting_]  
 
