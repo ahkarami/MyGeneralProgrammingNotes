@@ -83,6 +83,7 @@
 - [Numba](http://numba.pydata.org/) [_Good_]
 - [Dask](https://dask.org/) [_Good_]
 - [Modin: Speed up Pandas](https://github.com/modin-project/modin) [_Excellent_]
+- [cuDF - GPU DataFrames](https://github.com/rapidsai/cudf) [_Good_]  
 - [War of Data-Frames](https://medium.com/@tomaspeluritis/war-of-data-frames-i-r-a-p-read-aggregate-and-print-cd37b8f8849c)  
 - [What is the Python Global Interpreter Lock (GIL)?](https://realpython.com/python-gil/)
 - [Speed Up Your Python Program With Concurrency](https://realpython.com/python-concurrency/)
