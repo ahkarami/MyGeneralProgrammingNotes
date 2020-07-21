@@ -64,6 +64,7 @@
 - [Interactive plotting with Bokeh](https://towardsdatascience.com/interactive-plotting-with-bokeh-ea40ab10870)  
 - [Data Visualization with Bokeh in Python](https://towardsdatascience.com/data-visualization-with-bokeh-in-python-part-one-getting-started-a11655a467d4)  
 - [plotly](https://github.com/plotly/plotly.py)  
+- [plotly - tutorial](https://plotly.com/python/ipython-notebook-tutorial/)  
 
 ### Build a Python SDK:
 - [API Integration in Python – Part 1](https://realpython.com/api-integration-in-python/)
