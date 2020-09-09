@@ -185,6 +185,10 @@
 ## Docker Tutorials:
 - [Learn Enough Docker to be Useful](https://towardsdatascience.com/learn-enough-docker-to-be-useful-b7ba70caeb4b)
 
+## Download Files from Google Drive (in Python or Ubuntu CLI):
+- [gdown - Download a large file from Google Drive](https://pypi.org/project/gdown/)  [_Great_]  
+- [gdown - Download Google Drive files from CLI or Python](https://github.com/wkentaro/gdown) [_Great_]    
+
 ## Google Colab Tutorials:
 - [Downloading Datasets into Google Drive via Google Colab](https://towardsdatascience.com/downloading-datasets-into-google-drive-via-google-colab-bcb1b30b0166)  
 - [Begin your Deep Learning project for free (free GPU processing , free storage , free easy upload and etc.)](https://hackernoon.com/begin-your-deep-learning-project-for-free-free-gpu-processing-free-storage-free-easy-upload-b4dba18abebc)  
