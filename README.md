@@ -141,6 +141,7 @@
 
 ## Backend Development:
 - [The 2018 DevOps RoadMap](https://hackernoon.com/the-2018-devops-roadmap-31588d8670cb)  
+- [Kubernetes for Data Scientists](https://www.jeremyjordan.me/kubernetes/)  
 
 ## GraphQL Tutorials:
 - [A Beginner’s Guide to GraphQL](https://medium.freecodecamp.org/a-beginners-guide-to-graphql-86f849ce1bec)
