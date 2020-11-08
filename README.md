@@ -197,3 +197,5 @@
 - [Getting Started with Google Colab](https://towardsdatascience.com/getting-started-with-google-colab-f2fff97f594c)  
 - [Getting Started With PyTorch In Google Collab With Free GPU](https://hackernoon.com/getting-started-with-pytorch-in-google-collab-with-free-gpu-61a5c70b86a)  
 
+## Other:
+- [TinyJPG - Great Image Compression Tool](https://tinyjpg.com/)   
