@@ -56,6 +56,7 @@
 - [PyFormat](https://pyformat.info/)  [_Python print formatting_]  
 - [Regular Expressions: Regexes in Python (Part 1)](https://realpython.com/regex-python/)  
 - [Regular Expressions: Regexes in Python (Part 2)](https://realpython.com/regex-python-part-2/)  
+- [Python Coding Interview Tips](https://realpython.com/python-coding-interview-tips/)  
 - [Python Arabic Reshaper](https://github.com/mpcabd/python-arabic-reshaper)  [_Arabic Typing in Python_]  
 - [PyGame: A Primer on Game Programming in Python](https://realpython.com/pygame-a-primer/) [_Interesting_]  
 
