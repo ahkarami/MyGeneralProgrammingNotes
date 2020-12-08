@@ -49,6 +49,7 @@
 - [Building Machine Learning Apps with Streamlit](https://towardsdatascience.com/building-machine-learning-apps-with-streamlit-667cef3ff509)  
 - [Python Exceptions](https://realpython.com/python-exceptions/)  
 - [Python Try Except](https://www.w3schools.com/python/python_try_except.asp)  
+- [Google Atheris: A Coverage-Guided, Native Python Fuzzer](https://github.com/google/atheris)  
 - [Python Naming Conventions](https://visualgit.readthedocs.io/en/latest/pages/naming_convention.html)  
 - [30 Python Best Practices, Tips, And Tricks](https://towardsdatascience.com/30-python-best-practices-tips-and-tricks-caefb9f8c5f5)  [_Interesting_]
 - [Pythonic Programming - Idiomatic Python-101](https://realpython.com/courses/idiomatic-python-101/) [_Great_]  
