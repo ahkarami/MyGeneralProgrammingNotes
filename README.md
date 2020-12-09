@@ -184,6 +184,7 @@
 
 ## Git & GitHub:
 - [Good Tutorial for Create a Pull Request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)
+- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)  
 
 ## DVC (Data Version Control):
 - [Data Version Control - DVC](https://dvc.org/)  
