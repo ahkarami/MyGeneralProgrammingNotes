@@ -85,6 +85,9 @@
 - [How I automated my job search by building a web crawler from scratch](https://www.freecodecamp.org/news/how-i-built-a-web-crawler-to-automate-my-job-search-f825fb5af718/) [_Interesting_]  
 - [Building an Image Downloader With Multiprocessing in Python](https://medium.com/better-programming/building-an-imagedownloader-with-multiprocessing-in-python-44aee36e0424)  
 
+### Logging in Python:
+- [Python Logging](https://realpython.com/python-logging/)  
+
 ### Python Parallel Programming Tutorials:
 - [Numba](http://numba.pydata.org/) [_Good_]
 - [Dask](https://dask.org/) [_Good_]
