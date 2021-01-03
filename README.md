@@ -87,6 +87,7 @@
 
 ### Logging in Python:
 - [Python Logging](https://realpython.com/python-logging/)  
+- [Noggin - a simple Python tool for ‘live’ logging](https://github.com/rsokl/noggin)  
 
 ### Python Parallel Programming Tutorials:
 - [Numba](http://numba.pydata.org/) [_Good_]
