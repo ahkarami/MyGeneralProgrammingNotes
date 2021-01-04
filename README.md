@@ -88,6 +88,7 @@
 ### Logging in Python:
 - [Python Logging](https://realpython.com/python-logging/)  
 - [Noggin - a simple Python tool for ‘live’ logging](https://github.com/rsokl/noggin)  
+- [Python Logging Module for ML](https://github.com/Davisy/Run-Machine-Learning-Experiments-with-Python-Logging-module)  
 
 ### Python Parallel Programming Tutorials:
 - [Numba](http://numba.pydata.org/) [_Good_]
