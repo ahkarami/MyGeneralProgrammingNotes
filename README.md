@@ -195,7 +195,8 @@
 - [Data Version Control - DVC](https://dvc.org/)  
 
 ## Docker Tutorials:
-- [Learn Enough Docker to be Useful](https://towardsdatascience.com/learn-enough-docker-to-be-useful-b7ba70caeb4b)
+- [Learn Enough Docker to be Useful](https://towardsdatascience.com/learn-enough-docker-to-be-useful-b7ba70caeb4b)  
+- [Docker in Action – Fitter, Happier, More Productive](https://realpython.com/docker-in-action-fitter-happier-more-productive/)  
 
 ## Download Files from Google Drive (in Python or Ubuntu CLI):
 - [gdown - Download a large file from Google Drive](https://pypi.org/project/gdown/)  [_Great_]  
