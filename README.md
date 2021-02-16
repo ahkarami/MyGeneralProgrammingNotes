@@ -209,6 +209,8 @@
 
 ## Upload Files from Ubuntu CLI:
 - [Easy File Sharing from Linux Commandline](https://www.tecmint.com/file-sharing-from-linux-commandline/)  
+- [How to upload a file to Google Drive from the command line](https://olivermarshall.net/how-to-upload-a-file-to-google-drive-from-the-command-line/)  
+- [gdrive - command line utility for interacting with Google Drive](https://github.com/prasmussen/gdrive)  
 
 ## Google Colab Tutorials:
 - [Downloading Datasets into Google Drive via Google Colab](https://towardsdatascience.com/downloading-datasets-into-google-drive-via-google-colab-bcb1b30b0166)  
