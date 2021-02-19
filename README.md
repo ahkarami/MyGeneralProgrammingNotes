@@ -197,6 +197,8 @@
 
 ## DVC (Data Version Control):
 - [Data Version Control - DVC](https://dvc.org/)  
+- [DVC - GitHub](https://github.com/iterative/dvc)  
+- [DVC - Get Started Tutorial](https://dvc.org/doc/start)  
 
 ## Docker Tutorials:
 - [Learn Enough Docker to be Useful](https://towardsdatascience.com/learn-enough-docker-to-be-useful-b7ba70caeb4b)  
