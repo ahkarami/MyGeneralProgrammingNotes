@@ -87,6 +87,7 @@
 
 ### Logging in Python:
 - [Python Logging](https://realpython.com/python-logging/)  
+- [Python Logging Best Practices](https://coralogix.com/log-analytics-blog/python-logging-best-practices-tips/)  
 - [Noggin - a simple Python tool for ‘live’ logging](https://github.com/rsokl/noggin)  
 - [Python Logging Module for ML](https://github.com/Davisy/Run-Machine-Learning-Experiments-with-Python-Logging-module)  
 
