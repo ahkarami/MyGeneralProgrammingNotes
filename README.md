@@ -140,6 +140,7 @@
 - [Data Engineer Interview Questions](https://realpython.com/data-engineer-interview-questions-python/)  
 - [How did I learn Data Science?](https://towardsdatascience.com/how-did-i-learn-data-science-d5f7fc477997)  
 - [Minimal Pandas Subset for Data Scientists](https://towardsdatascience.com/minimal-pandas-subset-for-data-scientists-6355059629ae)  
+- [Numpy Tutorial - Realpython](https://realpython.com/numpy-tutorial/)  
 
 ## Build Desktop UI Apps:
 - [Electron JS - Build cross platform desktop apps with JavaScript](https://electronjs.org/) [_Fantastic_]
