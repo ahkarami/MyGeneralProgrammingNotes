@@ -160,6 +160,7 @@
 ## Backend Development:
 - [The 2018 DevOps RoadMap](https://hackernoon.com/the-2018-devops-roadmap-31588d8670cb)  
 - [Kubernetes for Data Scientists](https://www.jeremyjordan.me/kubernetes/)  
+- [Install Minio on Ubuntu 20.04](https://linuxhint.com/installing_minio_ubuntu/)  
 
 ## GraphQL Tutorials:
 - [A Beginner’s Guide to GraphQL](https://medium.freecodecamp.org/a-beginners-guide-to-graphql-86f849ce1bec)
@@ -171,6 +172,13 @@
 
 ## Linux Shell Tutorials: 
 - [Powerline - a statusline plugin](https://github.com/powerline/powerline)  [_Beautiful Shell & Vim_]
+- [Understand Linux Shell and Basic Shell Scripting Language Tips – Part I](https://www.tecmint.com/understand-linux-shell-and-basic-shell-scripting-language-tips/)  
+- [5 Shell Scripts for Linux Newbies to Learn Shell Programming – Part II](https://www.tecmint.com/basic-shell-programming-part-ii/)  
+- [https://www.tecmint.com/sailing-through-the-world-of-linux-bash-scripting-part-iii/](https://www.tecmint.com/sailing-through-the-world-of-linux-bash-scripting-part-iii/)  
+- [How to Create Simple Shell Scripts in Linux](https://www.tecmint.com/create-shell-scripts-in-linux/)  
+- [10 Useful Tips for Writing Effective Bash Scripts in Linux](https://www.tecmint.com/useful-tips-for-writing-bash-scripts-in-linux/)  
+- [Learning Shell Scripting Language: A Guide from Newbies to System Administrator](https://www.tecmint.com/learning-shell-scripting-language-a-guide-from-newbies-to-system-administrator/)  
+- [4 Free Shell Scripting eBooks for Linux Newbies and Administrators](https://www.tecmint.com/free-linux-shell-scripting-books/)  
 
 ### Vim Tutorials:
 - [How not to be afraid of Vim anymore](https://medium.freecodecamp.org/how-not-to-be-afraid-of-vim-anymore-ec0b7264b0ae)
