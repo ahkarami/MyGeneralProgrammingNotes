@@ -64,6 +64,7 @@
 - [Asterisks in Python](https://treyhunner.com/2018/10/asterisks-in-python-what-they-are-and-how-to-use-them/)  
 - [Python Arabic Reshaper](https://github.com/mpcabd/python-arabic-reshaper)  [_Arabic Typing in Python_]  
 - [PyGame: A Primer on Game Programming in Python](https://realpython.com/pygame-a-primer/) [_Interesting_]  
+- [pytube - Youtube downloader in python](https://github.com/pytube/pytube) [_Useful_]   
 
 ### Visualization in Python:
 - [Python Plotting With Matplotlib](https://realpython.com/python-matplotlib-guide/)  
