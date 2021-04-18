@@ -74,10 +74,12 @@
 - [plotly](https://github.com/plotly/plotly.py)  
 - [plotly - tutorial](https://plotly.com/python/ipython-notebook-tutorial/)  
 
-### Build a Python SDK:
+### Build a Python SDK & Python Packaging:
 - [API Integration in Python – Part 1](https://realpython.com/api-integration-in-python/)
 - [Building and Documenting Python REST APIs With Flask and Connexion](https://realpython.com/flask-connexion-rest-api/)
-- [How to Publish an Open-Source Python Package to PyPI](https://realpython.com/pypi-publish-python-package/)  
+- [How to Publish an Open-Source Python Package to PyPI](https://realpython.com/pypi-publish-python-package/) [_Good_]  
+- [setup.py (for humans)](https://github.com/navdeep-G/setup.py) [**Great**]   
+- [What is setup.py?](https://stackoverflow.com/questions/1471994/what-is-setup-py) [**Great**]  
 
 ### Web Scraping with Python:
 - [Beautiful Soup: Build a Web Scraper With Python](https://realpython.com/beautiful-soup-web-scraper-python/)  
