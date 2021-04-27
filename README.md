@@ -133,6 +133,7 @@
 - [RealPython Testing Tutorials](https://realpython.com/tutorials/testing/)   
 - [Python Testing](https://realpython.com/python-testing/)  
 - [pytest tutorial](https://realpython.com/pytest-python-testing/)  
+- [python continuous integration tutorial](https://realpython.com/python-continuous-integration/)  
 
 ## Data Science Tutorials:
 - [List of Data Science Cheat Sheets](https://github.com/FavioVazquez/ds-cheatsheets) [_Excellent_]  
