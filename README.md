@@ -59,6 +59,7 @@
 - [Python String Formatting Best Practices](https://realpython.com/python-string-formatting/)  
 - [PyFormat](https://pyformat.info/)  [_Python print formatting_]  
 - [String Formatters in Python](https://www.digitalocean.com/community/tutorials/how-to-use-string-formatters-in-python-3)  
+- [String Formatting in Python](https://realpython.com/python-formatted-output/)  
 - [Regular Expressions: Regexes in Python (Part 1)](https://realpython.com/regex-python/)  
 - [Regular Expressions: Regexes in Python (Part 2)](https://realpython.com/regex-python-part-2/)  
 - [Python Coding Interview Tips](https://realpython.com/python-coding-interview-tips/)  
