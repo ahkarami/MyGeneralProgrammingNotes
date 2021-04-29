@@ -65,6 +65,7 @@
 - [Python Coding Interview Tips](https://realpython.com/python-coding-interview-tips/)  
 - [Asterisks in Python](https://treyhunner.com/2018/10/asterisks-in-python-what-they-are-and-how-to-use-them/)  
 - [Python Arabic Reshaper](https://github.com/mpcabd/python-arabic-reshaper)  [_Arabic Typing in Python_]  
+- [Hydra - python configuring complex applications](https://hydra.cc/)  
 - [PyGame: A Primer on Game Programming in Python](https://realpython.com/pygame-a-primer/) [_Interesting_]  
 - [pytube - Youtube downloader in python](https://github.com/pytube/pytube) [_Useful_]   
 
