@@ -140,6 +140,7 @@
 
 ### Python time & date-time:
 - [Converting strings to datetime](https://stackabuse.com/converting-strings-to-datetime-in-python/)  
+- [Converting datetime to string in Python](https://thispointer.com/python-how-to-convert-datetime-object-to-string-using-datetime-strftime/)  
 
 ## Data Science Tutorials:
 - [List of Data Science Cheat Sheets](https://github.com/FavioVazquez/ds-cheatsheets) [_Excellent_]  
