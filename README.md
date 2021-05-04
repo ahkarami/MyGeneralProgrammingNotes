@@ -254,4 +254,4 @@
 ## Image Compression Tools & APIs:
 - [TinyJPG - Great Image Compression Tool](https://tinyjpg.com/)   
 - [Compress JPEG](https://compressjpeg.com/)  
-
+- [PyTurboJPEG: Python wrapper of libjpeg-turbo](https://github.com/lilohuang/PyTurboJPEG) [_Great_]  
