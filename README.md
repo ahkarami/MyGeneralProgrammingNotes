@@ -55,6 +55,7 @@
 - [30 Python Best Practices, Tips, And Tricks](https://towardsdatascience.com/30-python-best-practices-tips-and-tricks-caefb9f8c5f5)  [_Interesting_]
 - [Pythonic Programming - Idiomatic Python-101](https://realpython.com/courses/idiomatic-python-101/) [_Great_]  
 - [List Comprehension in Python](https://realpython.com/list-comprehension-python/)  
+- [list vs tuple](https://www.programiz.com/python-programming/list-vs-tuples)  
 - [Python Development in Visual Studio Code](https://realpython.com/python-development-visual-studio-code/)  
 - [Python String Formatting Best Practices](https://realpython.com/python-string-formatting/)  
 - [PyFormat](https://pyformat.info/)  [_Python print formatting_]  
