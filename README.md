@@ -65,6 +65,7 @@
 - [Regular Expressions: Regexes in Python (Part 2)](https://realpython.com/regex-python-part-2/)  
 - [Python Coding Interview Tips](https://realpython.com/python-coding-interview-tips/)  
 - [Asterisks in Python](https://treyhunner.com/2018/10/asterisks-in-python-what-they-are-and-how-to-use-them/)  
+- [What does if __name__=="__main__": do?](https://stackoverflow.com/questions/419163/what-does-if-name-main-do)  
 - [Python Arabic Reshaper](https://github.com/mpcabd/python-arabic-reshaper)  [_Arabic Typing in Python_]  
 - [Hydra - python configuring complex applications](https://hydra.cc/)  
 - [Hydra - GitHub](https://github.com/facebookresearch/hydra)  
