@@ -257,6 +257,7 @@
 
 ## AI coding Assistant:
 - [GitHub Copilot](https://copilot.github.com/) [Great]   
+- [Introducing github copilot AI pair programmer](https://github.blog/2021-06-29-introducing-github-copilot-ai-pair-programmer/)  
 
 ## Image Compression Tools & APIs:
 - [TinyJPG - Great Image Compression Tool](https://tinyjpg.com/)   
