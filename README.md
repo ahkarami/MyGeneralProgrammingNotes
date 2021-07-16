@@ -70,6 +70,7 @@
 - [Python Arabic Reshaper](https://github.com/mpcabd/python-arabic-reshaper)  [_Arabic Typing in Python_]  
 - [Hydra - python configuring complex applications](https://hydra.cc/)  
 - [Hydra - GitHub](https://github.com/facebookresearch/hydra)  
+- [Python Generators](https://realpython.com/introduction-to-python-generators/)  
 - [PyGame: A Primer on Game Programming in Python](https://realpython.com/pygame-a-primer/) [_Interesting_]  
 - [pytube - Youtube downloader in python](https://github.com/pytube/pytube) [_Useful_]   
 
