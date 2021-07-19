@@ -88,6 +88,8 @@
 - [How to Publish an Open-Source Python Package to PyPI](https://realpython.com/pypi-publish-python-package/) [_Good_]  
 - [setup.py (for humans)](https://github.com/navdeep-G/setup.py) [**Great**]   
 - [What is setup.py?](https://stackoverflow.com/questions/1471994/what-is-setup-py) [**Great**]  
+- [Install dependencies from setup.py](https://stackoverflow.com/questions/26900328/install-dependencies-from-setup-py)  
+- [Install private GitLab repo as dependency from setup.py](https://stackoverflow.com/questions/59109081/python-setup-py-with-private-repository-on-gitlab-as-dependency-links-based-on-c)   
 
 ### Web Scraping with Python:
 - [Beautiful Soup: Build a Web Scraper With Python](https://realpython.com/beautiful-soup-web-scraper-python/)  
