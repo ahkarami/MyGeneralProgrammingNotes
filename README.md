@@ -141,6 +141,7 @@
 
 ### Python `any` and `all`:
 - [any and all in python](https://stackabuse.com/any-and-all-in-python-with-examples)   
+- [geeksforgeeks: any and all in python](https://www.geeksforgeeks.org/any-all-in-python/)   
 
 ### Download File in Python:
 - [urllib3](https://github.com/urllib3/urllib3)  
