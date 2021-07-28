@@ -139,6 +139,9 @@
 - [What’s __init__ for me?](https://towardsdatascience.com/whats-init-for-me-d70a312da583)  
 - [What is __init__.py? ](https://stackoverflow.com/questions/448271/what-is-init-py-for)  
 
+### Python `any` and `all`:
+- [any and all in python](https://stackabuse.com/any-and-all-in-python-with-examples)   
+
 ### Download File in Python:
 - [urllib3](https://github.com/urllib3/urllib3)  
 - [Download Files with Python](https://stackabuse.com/download-files-with-python/)  
