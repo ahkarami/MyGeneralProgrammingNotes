@@ -153,6 +153,9 @@
 - [pytest tutorial](https://realpython.com/pytest-python-testing/)  
 - [python continuous integration tutorial](https://realpython.com/python-continuous-integration/)  
 
+### Python `fire` Library:
+- [pypi - fire](https://pypi.org/project/fire/)  
+
 ### Python time & date-time:
 - [Converting strings to datetime](https://stackabuse.com/converting-strings-to-datetime-in-python/)  
 - [Converting datetime to string in Python](https://thispointer.com/python-how-to-convert-datetime-object-to-string-using-datetime-strftime/)  
