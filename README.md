@@ -155,6 +155,7 @@
 
 ### Python `fire` Library:
 - [pypi - fire](https://pypi.org/project/fire/)  
+- [Google Python fire library](https://github.com/google/python-fire)    
 
 ### Python time & date-time:
 - [Converting strings to datetime](https://stackabuse.com/converting-strings-to-datetime-in-python/)  
