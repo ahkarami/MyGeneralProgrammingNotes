@@ -164,6 +164,7 @@
 
 ### Python grpc & microservices:
 - [Python microservices & grpc](https://realpython.com/python-microservices-grpc/)   
+- [grpc basics](https://grpc.io/docs/languages/python/basics/)   
 
 ## Data Science Tutorials:
 - [List of Data Science Cheat Sheets](https://github.com/FavioVazquez/ds-cheatsheets) [_Excellent_]  
