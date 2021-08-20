@@ -162,6 +162,9 @@
 - [Converting strings to datetime](https://stackabuse.com/converting-strings-to-datetime-in-python/)  
 - [Converting datetime to string in Python](https://thispointer.com/python-how-to-convert-datetime-object-to-string-using-datetime-strftime/)  
 
+### Python grpc & microservices:
+- [Python microservices & grpc](https://realpython.com/python-microservices-grpc/)   
+
 ## Data Science Tutorials:
 - [List of Data Science Cheat Sheets](https://github.com/FavioVazquez/ds-cheatsheets) [_Excellent_]  
 - [10 Python Pandas tricks that make your work more efficient](https://towardsdatascience.com/10-python-pandas-tricks-that-make-your-work-more-efficient-2e8e483808ba)  
