@@ -166,6 +166,8 @@
 - [Python microservices & grpc](https://realpython.com/python-microservices-grpc/)   
 - [grpc basics](https://grpc.io/docs/languages/python/basics/)   
 
+### Python Data Structures & Collections:
+
 ## Data Science Tutorials:
 - [List of Data Science Cheat Sheets](https://github.com/FavioVazquez/ds-cheatsheets) [_Excellent_]  
 - [10 Python Pandas tricks that make your work more efficient](https://towardsdatascience.com/10-python-pandas-tricks-that-make-your-work-more-efficient-2e8e483808ba)  
