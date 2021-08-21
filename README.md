@@ -167,7 +167,8 @@
 - [grpc basics](https://grpc.io/docs/languages/python/basics/)   
 
 ### Python Data Structures & Collections:
-
+- [Collections Module](https://www.tutorialsteacher.com/python/collections-module) [Great]    
+  
 ## Data Science Tutorials:
 - [List of Data Science Cheat Sheets](https://github.com/FavioVazquez/ds-cheatsheets) [_Excellent_]  
 - [10 Python Pandas tricks that make your work more efficient](https://towardsdatascience.com/10-python-pandas-tricks-that-make-your-work-more-efficient-2e8e483808ba)  
