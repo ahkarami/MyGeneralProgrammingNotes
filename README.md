@@ -169,6 +169,7 @@
 ### Python Data Structures & Collections:
 - [Collections Module](https://www.tutorialsteacher.com/python/collections-module) [Great]    
 - [Introduction to Pythons Collections](https://stackabuse.com/introduction-to-pythons-collections-module) [**Great**]     
+- [Real Python Data Structures](https://realpython.com/python-data-structures/)  
   
 ## Data Science Tutorials:
 - [List of Data Science Cheat Sheets](https://github.com/FavioVazquez/ds-cheatsheets) [_Excellent_]  
