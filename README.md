@@ -170,7 +170,8 @@
 - [Collections Module](https://www.tutorialsteacher.com/python/collections-module) [Great]    
 - [Introduction to Pythons Collections](https://stackabuse.com/introduction-to-pythons-collections-module) [**Great**]     
 - [Real Python Data Structures](https://realpython.com/python-data-structures/)  
-- [Real Python Collections Module](https://realpython.com/python-collections-module/)   
+- [Real Python Collections Module](https://realpython.com/python-collections-module/)  
+- [Python Collections](https://www.tutorialbrain.com/python-collections/)    
   
 ## Data Science Tutorials:
 - [List of Data Science Cheat Sheets](https://github.com/FavioVazquez/ds-cheatsheets) [_Excellent_]  
