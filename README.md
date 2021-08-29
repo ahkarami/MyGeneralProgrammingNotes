@@ -25,6 +25,7 @@
 
 ## Python Tutorials:
 - [**Real Python Tutorials**](https://realpython.com/) [_Excellent_]
+- [Tutorials Teacher](https://www.tutorialsteacher.com/python)   
 - [Learning Python: From Zero to Hero](https://medium.com/free-code-camp/learning-python-from-zero-to-hero-120ea540b567) [_Great & Fast Tutorial_]  
 - [The Next Level of Data Visualization in Python](https://towardsdatascience.com/the-next-level-of-data-visualization-in-python-dd6e99039d5e) [_Good_]
 - [Jupyter Notebook: An Introduction](https://realpython.com/jupyter-notebook-introduction/) [**Useful**]
