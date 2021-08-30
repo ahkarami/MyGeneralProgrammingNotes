@@ -151,6 +151,7 @@
 
 ### Python Folder & Files Manipulating Tutorials:
 - [glob tutorial](https://pymotw.com/2/glob/)   
+- [Python Pathlib](https://realpython.com/python-pathlib/)   
 
 ### Python Testing Tutorials:
 - [RealPython Testing Tutorials](https://realpython.com/tutorials/testing/)   
