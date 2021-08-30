@@ -149,6 +149,9 @@
 - [urllib3](https://github.com/urllib3/urllib3)  
 - [Download Files with Python](https://stackabuse.com/download-files-with-python/)  
 
+### Python Folder & Files Manipulating Tutorials:
+- [glob tutorial](https://pymotw.com/2/glob/)   
+
 ### Python Testing Tutorials:
 - [RealPython Testing Tutorials](https://realpython.com/tutorials/testing/)   
 - [Python Testing](https://realpython.com/python-testing/)  
