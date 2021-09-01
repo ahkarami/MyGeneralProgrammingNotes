@@ -285,6 +285,7 @@
 - [Using Tutorial Data from Google Drive in Colab](https://pytorch.org/tutorials/beginner/colab.html)  
 - [Getting Started with Google Colab](https://towardsdatascience.com/getting-started-with-google-colab-f2fff97f594c)  
 - [Getting Started With PyTorch In Google Collab With Free GPU](https://hackernoon.com/getting-started-with-pytorch-in-google-collab-with-free-gpu-61a5c70b86a)  
+- [5 Amazing Google Colab Hacks You Should Try Today!](https://www.analyticsvidhya.com/blog/2020/04/5-amazing-google-colab-hacks-you-should-try-today/)   
 
 ## AI coding Assistant:
 - [GitHub Copilot](https://copilot.github.com/) [Great]   
