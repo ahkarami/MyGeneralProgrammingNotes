@@ -152,6 +152,7 @@
 ### Python Folder & Files Manipulating Tutorials:
 - [glob tutorial](https://pymotw.com/2/glob/)   
 - [Python Pathlib](https://realpython.com/python-pathlib/)   
+- [How to use glob function](https://www.geeksforgeeks.org/how-to-use-glob-function-to-find-files-recursively-in-python/)   
 
 ### Python Testing Tutorials:
 - [RealPython Testing Tutorials](https://realpython.com/tutorials/testing/)   
