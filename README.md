@@ -122,6 +122,7 @@
 ### Python Multiprocessing Programming Tutorials:
 - [Python 201: A multiprocessing tutorial](https://www.blog.pythonlibrary.org/2016/08/02/python-201-a-multiprocessing-tutorial/) [**Great**]   
 - [Multiprocessing in Python](https://www.linuxjournal.com/content/multiprocessing-python)  
+- [Python Concurrency](https://realpython.com/python-concurrency/)  
 - [How to use multiprocessing pool map with multiple arguments](https://stackoverflow.com/questions/5442910/how-to-use-multiprocessing-pool-map-with-multiple-arguments)  
 - [starmap: How to use multiprocessing pool map with multiple arguments](https://stackoverflow.com/questions/5442910/how-to-use-multiprocessing-pool-map-with-multiple-arguments/5443941#5443941)  
 - [Multithreading vs Multiprocessing in Python](https://medium.com/@nbosco/multithreading-vs-multiprocessing-in-python-c7dc88b50b5b)
