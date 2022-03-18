@@ -260,6 +260,8 @@
 - [super secret VS Code hacks](https://medium.freecodecamp.org/here-are-some-super-secret-vs-code-hacks-to-boost-your-productivity-20d30197ac76)
 
 ## Git & GitHub:
+- [Top 35 git Commands with Examples](https://dzone.com/articles/top-35-git-commands-with-examples-and-bonus)  
+- [Top 18 Git Commands with Examples](https://intellipaat.com/blog/tutorial/devops-tutorial/git-commands/)  
 - [Good Tutorial for Create a Pull Request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)
 - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)  
 - [How to Write a Good Readme File](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/)   
