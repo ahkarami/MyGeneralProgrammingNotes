@@ -300,6 +300,7 @@
 
 ## AI coding Assistant:
 - [GitHub Copilot](https://copilot.github.com/) [Great]   
+- [GitHub Copilot Labs](https://next.github.com/projects/copilot-labs/)  
 - [Introducing github copilot AI pair programmer](https://github.blog/2021-06-29-introducing-github-copilot-ai-pair-programmer/)  
 - [Kite](https://www.kite.com/)  
 - [Tabnine](https://www.tabnine.com/)   
