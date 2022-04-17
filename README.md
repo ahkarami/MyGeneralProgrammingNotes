@@ -266,6 +266,9 @@
 - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)  
 - [How to Write a Good Readme File](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/)   
 
+## Git Workfolw:
+- [What is git](https://www.atlassian.com/git/tutorials/what-is-git)  
+
 ## DVC (Data Version Control):
 - [Data Version Control - DVC](https://dvc.org/)  
 - [DVC - GitHub](https://github.com/iterative/dvc)  
