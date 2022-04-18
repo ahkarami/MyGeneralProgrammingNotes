@@ -269,6 +269,9 @@
 ## Git Workfolw:
 - [What is git](https://www.atlassian.com/git/tutorials/what-is-git)  
 
+### Download just one file from a GitHub repo (ubuntu command sample):
+- `wget -P configs/ https://raw.githubusercontent.com/NVIDIA/NeMo/main/examples/asr/conf/citrinet/citrinet_1024.yaml`  
+
 ## DVC (Data Version Control):
 - [Data Version Control - DVC](https://dvc.org/)  
 - [DVC - GitHub](https://github.com/iterative/dvc)  
