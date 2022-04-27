@@ -287,6 +287,7 @@
 - [Play with Docker](https://training.play-with-docker.com/)  
 - [Tutorialspoint Docker](https://www.tutorialspoint.com/docker/index.htm)  
 - [katacoda Docker Online & Interactive Course](https://www.katacoda.com/courses/docker) [**Great**]  
+- [Docker Tutorial for Beginners Part I](https://www.analyticsvidhya.com/blog/2022/04/docker-tutorial-for-beginners-part-i/)  
 
 ## Download Files from Google Drive (in Python or Ubuntu CLI):
 - [gdown - Download a large file from Google Drive](https://pypi.org/project/gdown/)  [_Great_]  
