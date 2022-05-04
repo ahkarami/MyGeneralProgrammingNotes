@@ -216,6 +216,7 @@
 - [The 2018 DevOps RoadMap](https://hackernoon.com/the-2018-devops-roadmap-31588d8670cb)  
 - [Kubernetes for Data Scientists](https://www.jeremyjordan.me/kubernetes/)  
 - [Kubernetes Training with DockerMe](https://github.com/AhmadRafiee/Kubernetes_training_with_DockerMe)  
+- [What is Kubernetes?](https://www.redhat.com/en/topics/containers/what-is-kubernetes)  
 - [Install Minio on Ubuntu 20.04](https://linuxhint.com/installing_minio_ubuntu/)  
 
 ## GraphQL Tutorials:
