@@ -173,6 +173,9 @@
 - [Python microservices & grpc](https://realpython.com/python-microservices-grpc/)   
 - [grpc basics](https://grpc.io/docs/languages/python/basics/)   
 
+### Python Programming in Browser:
+- [pyscript](https://github.com/pyscript/pyscript) [Great]  
+
 ### Python Data Structures & Collections:
 - [Collections Module](https://www.tutorialsteacher.com/python/collections-module) [Great]    
 - [Introduction to Pythons Collections](https://stackabuse.com/introduction-to-pythons-collections-module) [**Great**]     
