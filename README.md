@@ -240,6 +240,7 @@
 - [Learning Shell Scripting Language: A Guide from Newbies to System Administrator](https://www.tecmint.com/learning-shell-scripting-language-a-guide-from-newbies-to-system-administrator/)  
 - [4 Free Shell Scripting eBooks for Linux Newbies and Administrators](https://www.tecmint.com/free-linux-shell-scripting-books/)  
 - [Basic 25 Ubuntu Commands](https://linuxhint.com/basic-25-ubuntu-commands/)  
+- [Linux Hand Book](https://linuxhandbook.com/)  
 
 ### Vim Tutorials:
 - [How not to be afraid of Vim anymore](https://medium.freecodecamp.org/how-not-to-be-afraid-of-vim-anymore-ec0b7264b0ae)
