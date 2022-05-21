@@ -271,6 +271,7 @@
 - [Good Tutorial for Create a Pull Request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)
 - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)  
 - [How to Write a Good Readme File](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/)   
+- [Beautify GitHub Profile](https://github.com/rzashakeri/beautify-github-profile?utm_source=tldrnewsletter)  
 
 ## Git Workfolw:
 - [What is git](https://www.atlassian.com/git/tutorials/what-is-git)  
