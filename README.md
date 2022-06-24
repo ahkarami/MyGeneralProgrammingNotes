@@ -263,7 +263,8 @@
 - [tmux - a very simple beginner's guide](https://www.ocf.berkeley.edu/~ckuehl/tmux/)  
 
 ## Notes about IDEs:
-- [super secret VS Code hacks](https://medium.freecodecamp.org/here-are-some-super-secret-vs-code-hacks-to-boost-your-productivity-20d30197ac76)
+- [super secret VS Code hacks](https://medium.freecodecamp.org/here-are-some-super-secret-vs-code-hacks-to-boost-your-productivity-20d30197ac76)  
+- [Mintlify Doc Writer: Great Extension for VS Code](https://marketplace.visualstudio.com/items?itemName=mintlify.document) [Great]  
 
 ## Git & GitHub:
 - [Top 35 git Commands with Examples](https://dzone.com/articles/top-35-git-commands-with-examples-and-bonus)  
