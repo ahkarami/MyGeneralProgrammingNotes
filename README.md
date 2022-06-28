@@ -316,6 +316,7 @@
 ## AI coding Assistant:
 - [GitHub Copilot](https://copilot.github.com/) [Great]   
 - [GitHub Copilot Labs](https://next.github.com/projects/copilot-labs/)  
+- [GitHub Copilot is generally available to all developers](https://github.blog/2022-06-21-github-copilot-is-generally-available-to-all-developers/)  
 - [Introducing github copilot AI pair programmer](https://github.blog/2021-06-29-introducing-github-copilot-ai-pair-programmer/)  
 - [Kite](https://www.kite.com/)  
 - [Tabnine](https://www.tabnine.com/)   
