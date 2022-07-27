@@ -83,6 +83,7 @@
 - [altair-viz](https://altair-viz.github.io/)  
 - [plotly](https://github.com/plotly/plotly.py)  
 - [plotly - tutorial](https://plotly.com/python/ipython-notebook-tutorial/)  
+- [Interactive Plots in Python with Plotly](https://www.analyticsvidhya.com/blog/2021/10/interactive-plots-in-python-with-plotly-a-complete-guide/)  
 
 ### Build a Python SDK & Python Packaging:
 - [API Integration in Python – Part 1](https://realpython.com/api-integration-in-python/)
