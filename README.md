@@ -63,6 +63,7 @@
 - [PyFormat](https://pyformat.info/)  [_Python print formatting_]  
 - [String Formatters in Python](https://www.digitalocean.com/community/tutorials/how-to-use-string-formatters-in-python-3)  
 - [String Formatting in Python](https://realpython.com/python-formatted-output/)  
+- [Showing Side-by-Side Diffs in Jupyter](https://skeptric.com/python-diffs/)  
 - [Regular Expressions: Regexes in Python (Part 1)](https://realpython.com/regex-python/)  
 - [Regular Expressions: Regexes in Python (Part 2)](https://realpython.com/regex-python-part-2/)  
 - [Python Regular Expression Great Tutorial](http://evc-cit.info/comsc020/python-regex-tutorial/)  
