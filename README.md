@@ -332,3 +332,6 @@
 - [TinyJPG - Great Image Compression Tool](https://tinyjpg.com/)   
 - [Compress JPEG](https://compressjpeg.com/)  
 - [PyTurboJPEG: Python wrapper of libjpeg-turbo](https://github.com/lilohuang/PyTurboJPEG) [_Great_]  
+
+## Miscellaneous:
+- [Awesome-CV: LaTeX template for your outstanding job application](https://github.com/posquit0/Awesome-CV) [Great]  
