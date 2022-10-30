@@ -336,3 +336,4 @@
 
 ## Miscellaneous:
 - [Awesome-CV: LaTeX template for your outstanding job application](https://github.com/posquit0/Awesome-CV) [Great]  
+- [Explainpaper: A better way to read academic papers](https://www.explainpaper.com/) [Great]  
