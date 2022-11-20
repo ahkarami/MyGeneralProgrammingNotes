@@ -329,6 +329,8 @@
 - [Tabnine](https://www.tabnine.com/)   
 - [Amazon CodeWhisperer: ML-powered coding companion](https://aws.amazon.com/codewhisperer/)  
 - [Github Copilot in the Terminal (bash)](https://github.com/maxwell-bland/copilot-in-the-terminal)  
+- [Hey GitHub](https://githubnext.com/projects/hey-github) [Great]  
+- [GitHub Next](https://github.com/githubnext)  
 
 ## Image Compression Tools & APIs:
 - [TinyJPG - Great Image Compression Tool](https://tinyjpg.com/)   
