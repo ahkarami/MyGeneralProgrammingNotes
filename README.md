@@ -340,3 +340,4 @@
 ## Miscellaneous:
 - [Awesome-CV: LaTeX template for your outstanding job application](https://github.com/posquit0/Awesome-CV) [Great]  
 - [Explainpaper: A better way to read academic papers](https://www.explainpaper.com/) [Great]  
+- [8 Great Google Chrome Extensions](https://www.linkedin.com/posts/iamarifalam_google-chrome-extension-activity-6989791567460896768-xUja/?utm_source=share&utm_medium=member_android) [helpful]  
