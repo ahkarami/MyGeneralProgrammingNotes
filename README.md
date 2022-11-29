@@ -301,6 +301,7 @@
 - [katacoda Docker Online & Interactive Course](https://www.katacoda.com/courses/docker) [**Great**]  
 - [Docker Tutorial for Beginners Part I](https://www.analyticsvidhya.com/blog/2022/04/docker-tutorial-for-beginners-part-i/)  
 - [Great Tutorials for Docker & Backend](https://www.bogotobogo.com/DevOps/Docker/Docker-from-Monolithic-to-Micro-services-GCP-Kubernetes.php)  
+- [Deploying Machine Learning Models via Docker](https://github.com/ayoub-berdeddouch/mlbookcamp-homeworks/blob/main/Deployment/README.md) [Great]  
 - [Learn Docker in Persian](https://dockerme.ir/) [**Great**]  
 
 ## Download Files from Google Drive (in Python or Ubuntu CLI):
