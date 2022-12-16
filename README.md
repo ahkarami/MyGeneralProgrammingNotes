@@ -322,7 +322,7 @@
 - [Getting Started With PyTorch In Google Collab With Free GPU](https://hackernoon.com/getting-started-with-pytorch-in-google-collab-with-free-gpu-61a5c70b86a)  
 - [5 Amazing Google Colab Hacks You Should Try Today!](https://www.analyticsvidhya.com/blog/2020/04/5-amazing-google-colab-hacks-you-should-try-today/)   
 
-## AI coding Assistant:
+## AI Coding Assistant:
 - [GitHub Copilot](https://copilot.github.com/) [Great]   
 - [GitHub Copilot Labs](https://next.github.com/projects/copilot-labs/)  
 - [GitHub Copilot is generally available to all developers](https://github.blog/2022-06-21-github-copilot-is-generally-available-to-all-developers/)  
@@ -333,6 +333,7 @@
 - [Github Copilot in the Terminal (bash)](https://github.com/maxwell-bland/copilot-in-the-terminal)  
 - [Hey GitHub](https://githubnext.com/projects/hey-github) [Great]  
 - [GitHub Next](https://github.com/githubnext)  
+- [Terminal Copilot](https://github.com/Methexis-Inc/terminal-copilot) [Very Useful]  
 
 ## Image Compression Tools & APIs:
 - [TinyJPG - Great Image Compression Tool](https://tinyjpg.com/)   
