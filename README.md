@@ -10,6 +10,8 @@
 - [w3resource](https://www.w3resource.com/)  [_Good_]
 - [Daily Coding Problem - Interview Programming Problems](https://www.dailycodingproblem.com/) [**Good**]   
 - [GitBook](https://www.gitbook.com/)  [_Excellent Tool for doc Sharing_]  
+- [Quick Reference](https://quickref.me/) [**Excellent**]  
+- [Learn X in Y minutes](https://learnxinyminutes.com/) [**Excellent**]  
 
 ## JavaScript Tutorials:
 - [The Modern Javascript Tutorial](https://javascript.info/)
