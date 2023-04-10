@@ -228,6 +228,7 @@
 - [Kubernetes for Data Scientists](https://www.jeremyjordan.me/kubernetes/)  
 - [Kubernetes Training with DockerMe](https://github.com/AhmadRafiee/Kubernetes_training_with_DockerMe)  
 - [What is Kubernetes?](https://www.redhat.com/en/topics/containers/what-is-kubernetes)  
+- [Learning Kubernetes Step by Step Tutorials](https://www.linkedin.com/posts/juliafmorgado_kubernetes-can-be-pretty-complicated-at-first-activity-7046088493558583296-2BWI/?utm_source=share&utm_medium=member_android)  
 - [Install Minio on Ubuntu 20.04](https://linuxhint.com/installing_minio_ubuntu/)  
 
 ## GraphQL Tutorials:
