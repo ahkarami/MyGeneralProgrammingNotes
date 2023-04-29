@@ -208,6 +208,7 @@
 - [Minimal Pandas Subset for Data Scientists](https://towardsdatascience.com/minimal-pandas-subset-for-data-scientists-6355059629ae)  
 - [Numpy Tutorial - Realpython](https://realpython.com/numpy-tutorial/)  
 - [Setup Lightweight Airflow](https://datatalks.club/blog/how-to-setup-lightweight-local-version-for-airflow.html)  
+- [Pandas AI](https://github.com/gventuri/pandas-ai)  
 
 ## Build Desktop UI Apps:
 - [Electron JS - Build cross platform desktop apps with JavaScript](https://electronjs.org/) [_Fantastic_]
