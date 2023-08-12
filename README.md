@@ -352,3 +352,4 @@
 - [8 Great Google Chrome Extensions](https://www.linkedin.com/posts/iamarifalam_google-chrome-extension-activity-6989791567460896768-xUja/?utm_source=share&utm_medium=member_android) [helpful]  
 - [filestash: Explore data (e.g., S3) in browser](https://www.filestash.app/)  
 - [ArxivGPT Chrome Extension](https://chrome.google.com/webstore/detail/arxivgpt/fbbfpcjhnnklhmncjickdipdlhoddjoh/)  
+- [Easy Google Translate: Unofficial Google Translate API](https://github.com/ahmeterenodaci/easygoogletranslate)  
