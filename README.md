@@ -241,7 +241,7 @@
 - [Android Developer Roadmap](https://github.com/MindorksOpenSource/android-developer-roadmap)  
 - [Build a Mobile Application With the Kivy Python Framework](https://realpython.com/mobile-app-kivy-python/)  [_Great_]  
 
-## Linux Shell Tutorials: 
+## Linux Shell Tutorials & Related Tools: 
 - [Powerline - a statusline plugin](https://github.com/powerline/powerline)  [_Beautiful Shell & Vim_]
 - [Understand Linux Shell and Basic Shell Scripting Language Tips – Part I](https://www.tecmint.com/understand-linux-shell-and-basic-shell-scripting-language-tips/)  
 - [5 Shell Scripts for Linux Newbies to Learn Shell Programming – Part II](https://www.tecmint.com/basic-shell-programming-part-ii/)  
@@ -251,7 +251,8 @@
 - [Learning Shell Scripting Language: A Guide from Newbies to System Administrator](https://www.tecmint.com/learning-shell-scripting-language-a-guide-from-newbies-to-system-administrator/)  
 - [4 Free Shell Scripting eBooks for Linux Newbies and Administrators](https://www.tecmint.com/free-linux-shell-scripting-books/)  
 - [Basic 25 Ubuntu Commands](https://linuxhint.com/basic-25-ubuntu-commands/)  
-- [Linux Hand Book](https://linuxhandbook.com/)  
+- [Linux Hand Book](https://linuxhandbook.com/)
+- [shell-ai: Your Intelligent Command-Line Companion](https://github.com/ricklamers/shell-ai)  
 
 ### Vim Tutorials:
 - [How not to be afraid of Vim anymore](https://medium.freecodecamp.org/how-not-to-be-afraid-of-vim-anymore-ec0b7264b0ae)
