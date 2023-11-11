@@ -124,6 +124,8 @@
 - [Speed Up Your Python Program With Concurrency](https://realpython.com/python-concurrency/)
 - [Speed Up Your Algorithms Part 3 — Parallel-ization](https://towardsdatascience.com/speed-up-your-algorithms-part-3-parallelization-4d95c0888748) [_Useful_]
 - [Intro to Threads and Processes in Python](https://medium.com/@bfortuner/python-multithreading-vs-multiprocessing-73072ce5600b)
+- [cuDF: GPU DataFrame Library](https://github.com/rapidsai/cudf)
+- [cuDF example](https://colab.research.google.com/drive/12tCzP94zFG2BRduACucn5Q_OcX1TUKY3)  
 
 ### Python Multiprocessing Programming Tutorials:
 - [Python 201: A multiprocessing tutorial](https://www.blog.pythonlibrary.org/2016/08/02/python-201-a-multiprocessing-tutorial/) [**Great**]   
