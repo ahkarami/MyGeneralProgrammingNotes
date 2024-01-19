@@ -342,7 +342,8 @@
 - [Amazon CodeWhisperer: ML-powered coding companion](https://aws.amazon.com/codewhisperer/)  
 - [Github Copilot in the Terminal (bash)](https://github.com/maxwell-bland/copilot-in-the-terminal)  
 - [Hey GitHub](https://githubnext.com/projects/hey-github) [Great]  
-- [GitHub Next](https://github.com/githubnext)  
+- [GitHub Next](https://github.com/githubnext)
+- [Connecting Jupyter Notebook to ChatGPT](https://www.linkedin.com/posts/data-hub-ir_aevaewaecabraetaedaeuaewaehahy-aesaewaesahyaexabragpaex-ugcPost-7151789826629939200-lRLB?utm_source=share&utm_medium=member_android)  
 - [Terminal Copilot](https://github.com/Methexis-Inc/terminal-copilot) [Very Useful]  
 
 ## Image Compression Tools & APIs:
