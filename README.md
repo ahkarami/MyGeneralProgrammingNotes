@@ -359,3 +359,4 @@
 - [filestash: Explore data (e.g., S3) in browser](https://www.filestash.app/)  
 - [ArxivGPT Chrome Extension](https://chrome.google.com/webstore/detail/arxivgpt/fbbfpcjhnnklhmncjickdipdlhoddjoh/)  
 - [Easy Google Translate: Unofficial Google Translate API](https://github.com/ahmeterenodaci/easygoogletranslate)  
+- [scribbl: Interesting Plugin for Google Chrome (convert captions to text from google meets)](https://www.scribbl.co/)  
