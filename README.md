@@ -145,7 +145,7 @@
 - [args and kwargs](http://book.pythontips.com/en/latest/args_and_kwargs.html)
 - [Python functions, args, kwargs](https://hackernoon.com/python-functions-args-kwargs-5d2d00f09c74)
 - [Primer on Python Decorators](https://realpython.com/primer-on-python-decorators/)  
-- [Python args and kwargs: Demystified](https://realpython.com/python-kwargs-and-args/)  
+- [Python args and kwargs: Demystified](https://realpython.com/python-kwargs-and-args/)
 
 ### Python Modules, Packages, Absolute vs Relative Imports, and `__init__.py` file:
 - [Absolute vs Relative Imports in Python](https://realpython.com/absolute-vs-relative-python-imports/)  
@@ -170,7 +170,8 @@
 - [RealPython Testing Tutorials](https://realpython.com/tutorials/testing/)   
 - [Python Testing](https://realpython.com/python-testing/)  
 - [pytest tutorial](https://realpython.com/pytest-python-testing/)  
-- [python continuous integration tutorial](https://realpython.com/python-continuous-integration/)  
+- [python continuous integration tutorial](https://realpython.com/python-continuous-integration/)
+- [python doctest](https://realpython.com/python-doctest/)  
 
 ### Python `fire` Library:
 - [pypi - fire](https://pypi.org/project/fire/)  
