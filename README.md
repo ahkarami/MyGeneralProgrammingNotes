@@ -80,6 +80,12 @@
 - [PyGame: A Primer on Game Programming in Python](https://realpython.com/pygame-a-primer/) [_Interesting_]  
 - [pytube - Youtube downloader in python](https://github.com/pytube/pytube) [_Useful_]   
 
+### Python Short & Fast Cheat Sheets:
+- [Datacamp: Getting started with Python cheat sheet](https://www.datacamp.com/cheat-sheet/getting-started-with-python-cheat-sheet)
+- [Python Basics_Cheat_Sheet](https://images.datacamp.com/image/upload/v1694526244/Marketing/Blog/Python_Basics_Cheat_Sheet-updated.pdf)
+- [Cheatsheet Basics](https://www.pythoncheatsheet.org/cheatsheet/basics)
+- [Python Cheat Sheet](https://zerotomastery.io/cheatsheets/python-cheat-sheet/)  
+
 ### Visualization in Python:
 - [Python Plotting With Matplotlib](https://realpython.com/python-matplotlib-guide/)  
 - [Interactive plotting with Bokeh](https://towardsdatascience.com/interactive-plotting-with-bokeh-ea40ab10870)  
