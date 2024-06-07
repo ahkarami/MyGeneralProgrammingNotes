@@ -235,7 +235,8 @@
 - [Good Qt Tutorials](http://www.codebind.com/category/cpp-tutorial/qt-tutorial/) 
 - [Install Qt](https://askubuntu.com/questions/769424/how-do-i-install-the-declarative-module-for-qt5-in-ubuntu-16-04) 
 - [How to Build a Python GUI Application With wxPython](https://realpython.com/python-gui-with-wxpython/)  
-- [wxWidgets - GitHub](https://github.com/wxWidgets/wxWidgets)  
+- [wxWidgets - GitHub](https://github.com/wxWidgets/wxWidgets)
+- [Mesop: Build delightful web apps quickly in Python](https://github.com/google/mesop)  
 
 ## Backend Development:
 - [The 2018 DevOps RoadMap](https://hackernoon.com/the-2018-devops-roadmap-31588d8670cb)  
@@ -354,7 +355,8 @@
 - [Hey GitHub](https://githubnext.com/projects/hey-github) [Great]  
 - [GitHub Next](https://github.com/githubnext)
 - [Connecting Jupyter Notebook to ChatGPT](https://www.linkedin.com/posts/data-hub-ir_aevaewaecabraetaedaeuaewaehahy-aesaewaesahyaexabragpaex-ugcPost-7151789826629939200-lRLB?utm_source=share&utm_medium=member_android)  
-- [Terminal Copilot](https://github.com/Methexis-Inc/terminal-copilot) [Very Useful]  
+- [Terminal Copilot](https://github.com/Methexis-Inc/terminal-copilot) [Very Useful]
+- [Google Code Transformation Tool](https://labs.google.com/code/transformer)  
 
 ## Image Compression Tools & APIs:
 - [TinyJPG - Great Image Compression Tool](https://tinyjpg.com/)   
