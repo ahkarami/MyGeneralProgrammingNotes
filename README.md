@@ -223,6 +223,10 @@
 - [Setup Lightweight Airflow](https://datatalks.club/blog/how-to-setup-lightweight-local-version-for-airflow.html)  
 - [Pandas AI](https://github.com/gventuri/pandas-ai)  
 
+### AirFlow:
+- [AirFlow Video Tutorial](https://www.youtube.com/watch?v=K9AnJ9_ZAXE)
+- [Good Video Tutorials for AirFlow and Other Data Engineering Tools](https://www.youtube.com/@coder2j)  
+
 ## Build Desktop UI Apps:
 - [Electron JS - Build cross platform desktop apps with JavaScript](https://electronjs.org/) [_Fantastic_]
 - [Using Python with Electron Tutorial](https://www.techiediaries.com/python-electron-tutorial/) [_Useful & Important_]
