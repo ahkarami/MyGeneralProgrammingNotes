@@ -84,7 +84,8 @@
 - [Datacamp: Getting started with Python cheat sheet](https://www.datacamp.com/cheat-sheet/getting-started-with-python-cheat-sheet)
 - [Python Basics_Cheat_Sheet](https://images.datacamp.com/image/upload/v1694526244/Marketing/Blog/Python_Basics_Cheat_Sheet-updated.pdf)
 - [Cheatsheet Basics](https://www.pythoncheatsheet.org/cheatsheet/basics)
-- [Python Cheat Sheet](https://zerotomastery.io/cheatsheets/python-cheat-sheet/)  
+- [Python Cheat Sheet](https://zerotomastery.io/cheatsheets/python-cheat-sheet/)
+- [Programming in Python via Imperial College London](https://imperialcollegelondon.github.io/python-novice-mix/) [Good]  
 
 ### Visualization in Python:
 - [Python Plotting With Matplotlib](https://realpython.com/python-matplotlib-guide/)  
