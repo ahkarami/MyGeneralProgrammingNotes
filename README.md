@@ -194,7 +194,8 @@
 
 ### Python Programming in Browser [Front-End with Python]:
 - [pyscript](https://github.com/pyscript/pyscript) [Great]  
-- [ReactPy: React in Python](https://github.com/reactive-python/reactpy) [Great]  
+- [ReactPy: React in Python](https://github.com/reactive-python/reactpy) [Great]
+- [Modern web applications in pure Python](https://fastht.ml/)  
 
 ### Python Data Structures & Collections:
 - [Collections Module](https://www.tutorialsteacher.com/python/collections-module) [Great]    
