@@ -116,7 +116,8 @@
 - [Building an Image Downloader With Multiprocessing in Python](https://medium.com/better-programming/building-an-imagedownloader-with-multiprocessing-in-python-44aee36e0424)
 - [How to scrape web data to finetune LLMs](https://lightning.ai/lightning-ai/studios/how-to-scrape-web-data-to-finetune-llms?section=featured)
 - [Collecting Data Sets via Web Scraping](https://www.linkedin.com/posts/data-hub-ir_aevaewaecabraetaedaeuaewaehahy-aewaeqabraepaebagpaezafyahyaeuagv-activity-7165221881015386112-2iqM?utm_source=share&utm_medium=member_desktop)
-- [Python scraper based on AI](https://github.com/VinciGit00/Scrapegraph-ai) [Great]  
+- [Python scraper based on AI](https://github.com/VinciGit00/Scrapegraph-ai) [Great]
+- [Firecrawl: Turn entire websites into LLM-ready markdown](https://github.com/mendableai/firecrawl)  
 
 ### Logging in Python:
 - [Python Logging](https://realpython.com/python-logging/)  
