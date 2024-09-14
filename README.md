@@ -365,7 +365,8 @@
 - [Connecting Jupyter Notebook to ChatGPT](https://www.linkedin.com/posts/data-hub-ir_aevaewaecabraetaedaeuaewaehahy-aesaewaesahyaexabragpaex-ugcPost-7151789826629939200-lRLB?utm_source=share&utm_medium=member_android)  
 - [Terminal Copilot](https://github.com/Methexis-Inc/terminal-copilot) [Very Useful]
 - [Google Code Transformation Tool](https://labs.google.com/code/transformer)
-- [Jupyter AI: A generative AI extension for JupyterLab](https://github.com/jupyterlab/jupyter-ai)  
+- [Jupyter AI: A generative AI extension for JupyterLab](https://github.com/jupyterlab/jupyter-ai)
+- [NotebookLM: AI-powered research and writing assistant](https://notebooklm.google.com/?pli=1)  
 
 ## Image Compression Tools & APIs:
 - [TinyJPG - Great Image Compression Tool](https://tinyjpg.com/)   
