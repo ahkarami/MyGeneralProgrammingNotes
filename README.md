@@ -368,7 +368,8 @@
 - [Terminal Copilot](https://github.com/Methexis-Inc/terminal-copilot) [Very Useful]
 - [Google Code Transformation Tool](https://labs.google.com/code/transformer)
 - [Jupyter AI: A generative AI extension for JupyterLab](https://github.com/jupyterlab/jupyter-ai)
-- [NotebookLM: AI-powered research and writing assistant](https://notebooklm.google.com/?pli=1)  
+- [Open NotebookLM](https://huggingface.co/spaces/gabrielchua/open-notebooklm)  
+- [NotebookLM: AI-powered research and writing assistant](https://notebooklm.google.com/?pli=1) [Great]  
 
 ## Image Compression Tools & APIs:
 - [TinyJPG - Great Image Compression Tool](https://tinyjpg.com/)   
