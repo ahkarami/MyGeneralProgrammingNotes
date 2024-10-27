@@ -384,4 +384,6 @@
 - [ArxivGPT Chrome Extension](https://chrome.google.com/webstore/detail/arxivgpt/fbbfpcjhnnklhmncjickdipdlhoddjoh/)  
 - [Easy Google Translate: Unofficial Google Translate API](https://github.com/ahmeterenodaci/easygoogletranslate)
 - [AI Voice Changer via `themetavoice`](https://themetavoice.xyz/) [Interesting]  
-- [scribbl: Interesting Plugin for Google Chrome (convert captions to text from google meets)](https://www.scribbl.co/) [Great]  
+- [scribbl: Interesting Plugin for Google Chrome (convert captions to text from google meets)](https://www.scribbl.co/) [Great]
+- [Python framework for creating mathematical animations](https://github.com/ManimCommunity/manim)
+- [All Algorithms implemented in Python](https://github.com/TheAlgorithms/Python)  
