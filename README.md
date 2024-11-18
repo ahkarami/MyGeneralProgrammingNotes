@@ -370,7 +370,8 @@
 - [Jupyter AI: A generative AI extension for JupyterLab](https://github.com/jupyterlab/jupyter-ai)
 - [Open NotebookLM](https://huggingface.co/spaces/gabrielchua/open-notebooklm)  
 - [NotebookLM: AI-powered research and writing assistant](https://notebooklm.google.com/?pli=1) [Great]
-- [Cursor AI-based IDE](https://www.cursor.com/) [Great]  
+- [Cursor AI-based IDE](https://www.cursor.com/) [Great]
+- [Windsurf Editor & IDE: The first agentic IDE](https://codeium.com/windsurf)  
 
 ## Image Compression Tools & APIs:
 - [TinyJPG - Great Image Compression Tool](https://tinyjpg.com/)   
