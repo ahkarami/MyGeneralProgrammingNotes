@@ -389,5 +389,6 @@
 - [scribbl: Interesting Plugin for Google Chrome (convert captions to text from google meets)](https://www.scribbl.co/) [Great]
 - [Python framework for creating mathematical animations](https://github.com/ManimCommunity/manim)
 - [ML Code Challenges](https://www.deep-ml.com/)  
-- [Leetcode style problems for Machine Learning algorithms](https://www.linkedin.com/posts/eric-vyacheslav-156273169_awesome-site-leetcode-style-problems-for-activity-7254129416706904064-YmXs?utm_source=share&utm_medium=member_desktop)  
+- [Leetcode style problems for Machine Learning algorithms](https://www.linkedin.com/posts/eric-vyacheslav-156273169_awesome-site-leetcode-style-problems-for-activity-7254129416706904064-YmXs?utm_source=share&utm_medium=member_desktop)
+- [OpenInterpreter: A natural language interface for computers](https://github.com/OpenInterpreter/open-interpreter)  
 - [All Algorithms implemented in Python](https://github.com/TheAlgorithms/Python)  
