@@ -378,6 +378,10 @@
 - [Compress JPEG](https://compressjpeg.com/)  
 - [PyTurboJPEG: Python wrapper of libjpeg-turbo](https://github.com/lilohuang/PyTurboJPEG) [_Great_]  
 
+## Note Writing Tools:
+- [anytype](https://anytype.io/)  
+- [anytype github link](https://github.com/anyproto/anytype-ts)  
+
 ## Miscellaneous:
 - [Awesome-CV: LaTeX template for your outstanding job application](https://github.com/posquit0/Awesome-CV) [Great]  
 - [Explainpaper: A better way to read academic papers](https://www.explainpaper.com/) [Great]  
