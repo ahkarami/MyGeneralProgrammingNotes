@@ -373,6 +373,7 @@
 - [Cursor AI-based IDE](https://www.cursor.com/) [Great]
 - [Windsurf Editor & IDE: The first agentic IDE](https://codeium.com/windsurf)
 - [Cline: Autonomous coding agent right in your IDE (VS-Code Extension)](https://github.com/cline/cline)  
+- [Google IDX Project](https://idx.dev/)  
 
 ## Image Compression Tools & APIs:
 - [TinyJPG - Great Image Compression Tool](https://tinyjpg.com/)   
