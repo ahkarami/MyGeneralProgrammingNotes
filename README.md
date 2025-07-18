@@ -374,6 +374,7 @@
 - [Windsurf Editor & IDE: The first agentic IDE](https://codeium.com/windsurf)
 - [Cline: Autonomous coding agent right in your IDE (VS-Code Extension)](https://github.com/cline/cline)  
 - [Google IDX Project](https://idx.dev/)
+- [Gemini CLI](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_public-roadmap-of-gemini-cli-we-want-to-activity-7351162079522742272-dg6m?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAgksdYBFu3_vG0bwXWdh93rSqV1J1ghMP4)  
 - [Free gemini code assist extension in vs code (FREE alternative to Cursor)](https://www.linkedin.com/posts/stasbel_friendly-reminder-that-google-has-a-free-activity-7347957779300610049-D_j7?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAgksdYBFu3_vG0bwXWdh93rSqV1J1ghMP4) [**Great**]  
 
 ## Image Compression Tools & APIs:
