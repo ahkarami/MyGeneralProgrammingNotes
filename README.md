@@ -373,7 +373,8 @@
 - [Cursor AI-based IDE](https://www.cursor.com/) [Great]
 - [Windsurf Editor & IDE: The first agentic IDE](https://codeium.com/windsurf)
 - [Cline: Autonomous coding agent right in your IDE (VS-Code Extension)](https://github.com/cline/cline)  
-- [Google IDX Project](https://idx.dev/)  
+- [Google IDX Project](https://idx.dev/)
+- [Free gemini code assist extension in vs code (FREE alternative to Cursor)](https://www.linkedin.com/posts/stasbel_friendly-reminder-that-google-has-a-free-activity-7347957779300610049-D_j7?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAgksdYBFu3_vG0bwXWdh93rSqV1J1ghMP4) [**Great**]  
 
 ## Image Compression Tools & APIs:
 - [TinyJPG - Great Image Compression Tool](https://tinyjpg.com/)   
