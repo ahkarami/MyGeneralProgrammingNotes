@@ -375,6 +375,7 @@
 - [Cline: Autonomous coding agent right in your IDE (VS-Code Extension)](https://github.com/cline/cline)  
 - [Google IDX Project](https://idx.dev/)
 - [Gemini CLI](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_public-roadmap-of-gemini-cli-we-want-to-activity-7351162079522742272-dg6m?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAgksdYBFu3_vG0bwXWdh93rSqV1J1ghMP4)
+- [Ampcode](https://ampcode.com/)  
 - [Kiro: The AI IDE by Amazon](https://kiro.dev/)  &  [Kiro - Linkedin Link 1](https://www.linkedin.com/posts/stasbel_amazon-just-entered-the-ai-dev-tools-race-activity-7350885560812519425-73q5?utm_source=share&utm_medium=member_android&rcm=ACoAAAgksdYBFu3_vG0bwXWdh93rSqV1J1ghMP4) & [Kiro - Linkedin Link 2](https://www.linkedin.com/posts/jwoschitz_everyones-buzzing-about-kiro-and-for-good-activity-7350907760940589056-vCgM?utm_source=share&utm_medium=member_android&rcm=ACoAAAgksdYBFu3_vG0bwXWdh93rSqV1J1ghMP4)  
 - [Free gemini code assist extension in vs code (FREE alternative to Cursor)](https://www.linkedin.com/posts/stasbel_friendly-reminder-that-google-has-a-free-activity-7347957779300610049-D_j7?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAgksdYBFu3_vG0bwXWdh93rSqV1J1ghMP4) [**Great**]  
 
