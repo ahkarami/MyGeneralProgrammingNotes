@@ -381,7 +381,8 @@
 
 ## Image Compression Tools & APIs:
 - [TinyJPG - Great Image Compression Tool](https://tinyjpg.com/)   
-- [Compress JPEG](https://compressjpeg.com/)  
+- [Compress JPEG](https://compressjpeg.com/)
+- [Website Screenshot API](https://apiflash.com/) [Turn Websites screenshots to images via API --> Useful for some projects]  
 - [PyTurboJPEG: Python wrapper of libjpeg-turbo](https://github.com/lilohuang/PyTurboJPEG) [_Great_]  
 
 ## Note Writing Tools:
