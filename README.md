@@ -387,7 +387,8 @@
 
 ## Note Writing Tools:
 - [anytype](https://anytype.io/)  
-- [anytype github link](https://github.com/anyproto/anytype-ts)  
+- [anytype github link](https://github.com/anyproto/anytype-ts)
+- [Deepnote](https://github.com/deepnote/deepnote)  
 
 ## Miscellaneous:
 - [Awesome-CV: LaTeX template for your outstanding job application](https://github.com/posquit0/Awesome-CV) [Great]  
